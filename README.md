@@ -39,6 +39,7 @@ Date   - field ```posting_date```
 
     **Expected result:**
     Month wise data in a table format
+
     | Month         | Amount    |
     | ------------- |----------:|
     | Jan 2018      | 1600.12   |
@@ -50,11 +51,12 @@ Date   - field ```posting_date```
 And now display Total Capex amount and Opex Amount (per month) separately based on account number represented by field ```account_number```.
 
     **Expected result:**
+    
     |Month          |Capex Amount | Opex Amount |   Total |
     | ------------- |----------:|----------:|----------:|
-    | Jan 2018      | 1600.00  | 1800.40 |   3400.40 |
-    | Feb 2018      | 12121.90  | 1234.05| 14355.95|
-    | ...           |      ...  | ...|...|
+    | Jan 2018      | 1600.00  | 1800.40 |   3400.40     |
+    | Feb 2018      | 12121.90  | 1234.05| 14355.95      |
+    | ...           |      ...  | ...    |...            |
 
 4. Draw ***Bar chart*** based on the data derived from Task 3.
 ```x-axis: months, y-axis : amount```
