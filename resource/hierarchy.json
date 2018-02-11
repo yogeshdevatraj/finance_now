@@ -1,0 +1,2623 @@
+{
+	"hierarchy": [{
+		"hierarchy_id": "1.0",
+		"parent": null,
+		"color": 2,
+		"indcScores": [],
+		"leaf_node": false,
+		"displayValue": "Develop and Manage Products and Services",
+		"sys_id": "016d2c3d18400300964f2ff0d21a4ee4",
+		"score": "0.00",
+		"children": [{
+			"hierarchy_id": "1.1",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Develop and Manage Products and Services",
+				"value": "016d2c3d18400300964f2ff0d21a4ee4"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Develop products and services",
+			"sys_id": "056d2c3d18400300964f2ff0d21a4ee9",
+			"score": "0.00",
+			"children": [{
+				"hierarchy_id": "1.1.1",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Develop products and services",
+					"value": "056d2c3d18400300964f2ff0d21a4ee9"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Design and prototype products and services",
+				"sys_id": "c96d2c3d18400300964f2ff0d21a4ee9",
+				"score": "0.00",
+				"children": [{
+					"hierarchy_id": "1.1.1.1",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Design and prototype products and services",
+						"value": "c96d2c3d18400300964f2ff0d21a4ee9"
+					},
+					"color": 2,
+					"indcScores": [],
+					"leaf_node": false,
+					"displayValue": "Assign resources to product/service project",
+					"sys_id": "816d2c3d18400300964f2ff0d21a4eea",
+					"score": "0.00",
+					"children": [{
+						"displayValue": "Identify requirements for product/service design/development partners",
+						"hierarchy_id": "1.1.1.1.1",
+						"sys_id": "496d2c3d18400300964f2ff0d21a4eea",
+						"short_description": null,
+						"parent": {
+							"displayValue": "Assign resources to product/service project",
+							"value": "816d2c3d18400300964f2ff0d21a4eea"
+						},
+						"score": -1,
+						"color": -1,
+						"name": "1.1.1.1.1 Identify requirements for product/service design/development partners",
+						"leaf_node": true,
+						"totalChildren": 0,
+						"hierarchy_level": "4",
+						"applications": 0
+					}],
+					"name": "1.1.1.1 Assign resources to product/service project",
+					"projectInvestment": null,
+					"totalChildren": 1,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "1.1.1 Design and prototype products and services",
+				"projectInvestment": null,
+				"totalChildren": 2,
+				"hierarchy_level": "2",
+				"applications": "1"
+			}],
+			"name": "1.1 Develop products and services",
+			"projectInvestment": null,
+			"totalChildren": 3,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"hierarchy_id": "1.2",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Develop and Manage Products and Services",
+				"value": "016d2c3d18400300964f2ff0d21a4ee4"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Generate and define new product/service ideas",
+			"sys_id": "cd6d2c3d18400300964f2ff0d21a4ee7",
+			"score": "0.00",
+			"children": [{
+				"hierarchy_id": "1.2.1",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Generate and define new product/service ideas",
+					"value": "cd6d2c3d18400300964f2ff0d21a4ee7"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Generate new product/service concepts",
+				"sys_id": "856d2c3d18400300964f2ff0d21a4ee8",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Gather new product/service ideas and requirements",
+					"hierarchy_id": "1.2.1.1",
+					"sys_id": "4d6d2c3d18400300964f2ff0d21a4ee8",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Generate new product/service concepts",
+						"value": "856d2c3d18400300964f2ff0d21a4ee8"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "1.2.1.1 Gather new product/service ideas and requirements",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "1.2.1 Generate new product/service concepts",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "1.2 Generate and define new product/service ideas",
+			"projectInvestment": null,
+			"totalChildren": 2,
+			"hierarchy_level": "1",
+			"applications": 0
+		}, {
+			"hierarchy_id": "1.3",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Develop and Manage Products and Services",
+				"value": "016d2c3d18400300964f2ff0d21a4ee4"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Govern and manage product/service development program",
+			"sys_id": "c56d2c3d18400300964f2ff0d21a4ee4",
+			"score": "0.00",
+			"children": [{
+				"hierarchy_id": "1.3.1",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Govern and manage product/service development program",
+					"value": "c56d2c3d18400300964f2ff0d21a4ee4"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Manage product and service portfolio",
+				"sys_id": "8d6d2c3d18400300964f2ff0d21a4ee4",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Evaluate performance of existing products/services against market opportunities",
+					"hierarchy_id": "1.3.1.1",
+					"sys_id": "456d2c3d18400300964f2ff0d21a4ee5",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Manage product and service portfolio",
+						"value": "8d6d2c3d18400300964f2ff0d21a4ee4"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "1.3.1.1 Evaluate performance of existing products/services against market opportunities",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "1.3.1 Manage product and service portfolio",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"hierarchy_id": "1.3.2",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Govern and manage product/service development program",
+					"value": "c56d2c3d18400300964f2ff0d21a4ee4"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Manage product and service life cycle",
+				"sys_id": "0d6d2c3d18400300964f2ff0d21a4ee5",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Develop plan for new product/service development and introduction/launch",
+					"hierarchy_id": "1.3.2.1",
+					"sys_id": "c16d2c3d18400300964f2ff0d21a4ee6",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Manage product and service life cycle",
+						"value": "0d6d2c3d18400300964f2ff0d21a4ee5"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "1.3.2.1 Develop plan for new product/service development and introduction/launch",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}, {
+					"hierarchy_id": "1.3.2.2",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Manage product and service life cycle",
+						"value": "0d6d2c3d18400300964f2ff0d21a4ee5"
+					},
+					"color": 2,
+					"indcScores": [],
+					"leaf_node": false,
+					"displayValue": "Conduct post launch review",
+					"sys_id": "896d2c3d18400300964f2ff0d21a4ee6",
+					"score": "0.00",
+					"children": [{
+						"displayValue": "Review market performance",
+						"hierarchy_id": "1.3.2.2.1",
+						"sys_id": "096d2c3d18400300964f2ff0d21a4ee7",
+						"short_description": null,
+						"parent": {
+							"displayValue": "Conduct post launch review",
+							"value": "896d2c3d18400300964f2ff0d21a4ee6"
+						},
+						"score": -1,
+						"color": -1,
+						"name": "1.3.2.2.1 Review market performance",
+						"leaf_node": true,
+						"totalChildren": 0,
+						"hierarchy_level": "4",
+						"applications": 0
+					}, {
+						"displayValue": "Carry out post launch analytics to test the acceptability in the market",
+						"hierarchy_id": "1.3.2.2.2",
+						"sys_id": "416d2c3d18400300964f2ff0d21a4ee7",
+						"short_description": null,
+						"parent": {
+							"displayValue": "Conduct post launch review",
+							"value": "896d2c3d18400300964f2ff0d21a4ee6"
+						},
+						"score": -1,
+						"color": -1,
+						"name": "1.3.2.2.2 Carry out post launch analytics to test the acceptability in the market",
+						"leaf_node": true,
+						"totalChildren": 0,
+						"hierarchy_level": "4",
+						"applications": 0
+					}],
+					"name": "1.3.2.2 Conduct post launch review",
+					"projectInvestment": null,
+					"totalChildren": 2,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "1.3.2 Manage product and service life cycle",
+				"projectInvestment": null,
+				"totalChildren": 4,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "1.3 Govern and manage product/service development program",
+			"projectInvestment": null,
+			"totalChildren": 7,
+			"hierarchy_level": "1",
+			"applications": 0
+		}],
+		"name": "1.0 Develop and Manage Products and Services",
+		"projectInvestment": null,
+		"totalChildren": 15,
+		"hierarchy_level": "0",
+		"applications": 0
+	}, {
+		"hierarchy_id": "2.0",
+		"parent": null,
+		"color": 2,
+		"indcScores": [],
+		"leaf_node": false,
+		"displayValue": "Market and Sell Products and Services",
+		"sys_id": "016d2c3d18400300964f2ff0d21a4eeb",
+		"score": "0.00",
+		"children": [{
+			"hierarchy_id": "2.1",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Market and Sell Products and Services",
+				"value": "016d2c3d18400300964f2ff0d21a4eeb"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Develop sales strategy",
+			"sys_id": "8d6d2c3d18400300964f2ff0d21a4ef2",
+			"score": "0.00",
+			"children": [{
+				"hierarchy_id": "2.1.1",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Develop sales strategy",
+					"value": "8d6d2c3d18400300964f2ff0d21a4ef2"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Develop sales forecast",
+				"sys_id": "456d2c3d18400300964f2ff0d21a4ef3",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Gather current and historic order information",
+					"hierarchy_id": "2.1.1.1",
+					"sys_id": "0d6d2c3d18400300964f2ff0d21a4ef3",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Develop sales forecast",
+						"value": "456d2c3d18400300964f2ff0d21a4ef3"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "2.1.1.1 Gather current and historic order information",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": "1"
+				}],
+				"name": "2.1.1 Develop sales forecast",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "2.1 Develop sales strategy",
+			"projectInvestment": null,
+			"totalChildren": 2,
+			"hierarchy_level": "1",
+			"applications": 0
+		}, {
+			"hierarchy_id": "2.2",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Market and Sell Products and Services",
+				"value": "016d2c3d18400300964f2ff0d21a4eeb"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Develop and manage sales plans",
+			"sys_id": "c16d2c3d18400300964f2ff0d21a4ef4",
+			"score": "0.00",
+			"children": [{
+				"hierarchy_id": "2.2.1",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Develop and manage sales plans",
+					"value": "c16d2c3d18400300964f2ff0d21a4ef4"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Manage leads/opportunities",
+				"sys_id": "896d2c3d18400300964f2ff0d21a4ef4",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Identify potential customers",
+					"hierarchy_id": "2.2.1.1",
+					"sys_id": "416d2c3d18400300964f2ff0d21a4ef5",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Manage leads/opportunities",
+						"value": "896d2c3d18400300964f2ff0d21a4ef4"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "2.2.1.1 Identify potential customers",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}, {
+					"hierarchy_id": "2.2.1.2",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Manage leads/opportunities",
+						"value": "896d2c3d18400300964f2ff0d21a4ef4"
+					},
+					"color": 2,
+					"indcScores": [],
+					"leaf_node": false,
+					"displayValue": "Manage customer sales calls",
+					"sys_id": "096d2c3d18400300964f2ff0d21a4ef5",
+					"score": "0.00",
+					"children": [{
+						"displayValue": "Perform sales calls",
+						"hierarchy_id": "2.2.1.2.1",
+						"sys_id": "cd6d2c3d18400300964f2ff0d21a4ef5",
+						"short_description": null,
+						"parent": {
+							"displayValue": "Manage customer sales calls",
+							"value": "096d2c3d18400300964f2ff0d21a4ef5"
+						},
+						"score": -1,
+						"color": -1,
+						"name": "2.2.1.2.1 Perform sales calls",
+						"leaf_node": true,
+						"totalChildren": 0,
+						"hierarchy_level": "4",
+						"applications": 0
+					}],
+					"name": "2.2.1.2 Manage customer sales calls",
+					"projectInvestment": null,
+					"totalChildren": 1,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "2.2.1 Manage leads/opportunities",
+				"projectInvestment": null,
+				"totalChildren": 3,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "2.2 Develop and manage sales plans",
+			"projectInvestment": null,
+			"totalChildren": 4,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"hierarchy_id": "2.3",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Market and Sell Products and Services",
+				"value": "016d2c3d18400300964f2ff0d21a4eeb"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Understand markets, customers, and capabilities",
+			"sys_id": "c56d2c3d18400300964f2ff0d21a4eeb",
+			"score": "0.00",
+			"children": [{
+				"hierarchy_id": "2.3.1",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Understand markets, customers, and capabilities",
+					"value": "c56d2c3d18400300964f2ff0d21a4eeb"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Perform customer and market intelligence analysis",
+				"sys_id": "8d6d2c3d18400300964f2ff0d21a4eeb",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Conduct customer and market research",
+					"hierarchy_id": "2.3.1.1",
+					"sys_id": "456d2c3d18400300964f2ff0d21a4eec",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Perform customer and market intelligence analysis",
+						"value": "8d6d2c3d18400300964f2ff0d21a4eeb"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "2.3.1.1 Conduct customer and market research",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "2.3.1 Perform customer and market intelligence analysis",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "2.3 Understand markets, customers, and capabilities",
+			"projectInvestment": null,
+			"totalChildren": 2,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"hierarchy_id": "2.4",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Market and Sell Products and Services",
+				"value": "016d2c3d18400300964f2ff0d21a4eeb"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Develop and manage marketing plans",
+			"sys_id": "c96d2c3d18400300964f2ff0d21a4ef0",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Develop and manage promotional activities",
+				"hierarchy_id": "2.4.1",
+				"sys_id": "016d2c3d18400300964f2ff0d21a4ef2",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Develop and manage marketing plans",
+					"value": "c96d2c3d18400300964f2ff0d21a4ef0"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "2.4.1 Develop and manage promotional activities",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": "1"
+			}, {
+				"displayValue": "Establish marketing budgets",
+				"hierarchy_id": "2.4.2",
+				"sys_id": "496d2c3d18400300964f2ff0d21a4ef1",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Develop and manage marketing plans",
+					"value": "c96d2c3d18400300964f2ff0d21a4ef0"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "2.4.2 Establish marketing budgets",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Establish goals, objectives, and metrics for products/services by channel/segment",
+				"hierarchy_id": "2.4.3",
+				"sys_id": "816d2c3d18400300964f2ff0d21a4ef1",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Develop and manage marketing plans",
+					"value": "c96d2c3d18400300964f2ff0d21a4ef0"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "2.4.3 Establish goals, objectives, and metrics for products/services by channel/segment",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Analyze and respond to customer insight",
+				"hierarchy_id": "2.4.4",
+				"sys_id": "c56d2c3d18400300964f2ff0d21a4ef2",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Develop and manage marketing plans",
+					"value": "c96d2c3d18400300964f2ff0d21a4ef0"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "2.4.4 Analyze and respond to customer insight",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "2.4 Develop and manage marketing plans",
+			"projectInvestment": null,
+			"totalChildren": 4,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"hierarchy_id": "2.5",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Market and Sell Products and Services",
+				"value": "016d2c3d18400300964f2ff0d21a4eeb"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Develop marketing strategy",
+			"sys_id": "0d6d2c3d18400300964f2ff0d21a4eec",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Design and manage customer loyalty program",
+				"hierarchy_id": "2.5.1",
+				"sys_id": "056d2c3d18400300964f2ff0d21a4ef0",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Develop marketing strategy",
+					"value": "0d6d2c3d18400300964f2ff0d21a4eec"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "2.5.1 Design and manage customer loyalty program",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Develop marketing communication strategy",
+				"hierarchy_id": "2.5.2",
+				"sys_id": "4d6d2c3d18400300964f2ff0d21a4eef",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Develop marketing strategy",
+					"value": "0d6d2c3d18400300964f2ff0d21a4eec"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "2.5.2 Develop marketing communication strategy",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"hierarchy_id": "2.5.3",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Develop marketing strategy",
+					"value": "0d6d2c3d18400300964f2ff0d21a4eec"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Define pricing strategy",
+				"sys_id": "416d2c3d18400300964f2ff0d21a4eee",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Conduct pricing analysis",
+					"hierarchy_id": "2.5.3.1",
+					"sys_id": "096d2c3d18400300964f2ff0d21a4eee",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Define pricing strategy",
+						"value": "416d2c3d18400300964f2ff0d21a4eee"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "2.5.3.1 Conduct pricing analysis",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": "1"
+				}],
+				"name": "2.5.3 Define pricing strategy",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"hierarchy_id": "2.5.4",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Develop marketing strategy",
+					"value": "0d6d2c3d18400300964f2ff0d21a4eec"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Define offering and customer value proposition",
+				"sys_id": "c16d2c3d18400300964f2ff0d21a4eed",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Define offering and positioning",
+					"hierarchy_id": "2.5.4.1",
+					"sys_id": "896d2c3d18400300964f2ff0d21a4eed",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Define offering and customer value proposition",
+						"value": "c16d2c3d18400300964f2ff0d21a4eed"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "2.5.4.1 Define offering and positioning",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "2.5.4 Define offering and customer value proposition",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"hierarchy_id": "2.5.5",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Develop marketing strategy",
+					"value": "0d6d2c3d18400300964f2ff0d21a4eec"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Define and manage channel strategy",
+				"sys_id": "cd6d2c3d18400300964f2ff0d21a4eee",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Determine channels to be supported",
+					"hierarchy_id": "2.5.5.1",
+					"sys_id": "856d2c3d18400300964f2ff0d21a4eef",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Define and manage channel strategy",
+						"value": "cd6d2c3d18400300964f2ff0d21a4eee"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "2.5.5.1 Determine channels to be supported",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "2.5.5 Define and manage channel strategy",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "2.5 Develop marketing strategy",
+			"projectInvestment": null,
+			"totalChildren": 8,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}],
+		"name": "2.0 Market and Sell Products and Services",
+		"projectInvestment": null,
+		"totalChildren": 25,
+		"hierarchy_level": "0",
+		"applications": 0
+	}, {
+		"hierarchy_id": "3.0",
+		"parent": null,
+		"color": 2,
+		"indcScores": [],
+		"leaf_node": false,
+		"displayValue": "Deliver Services",
+		"sys_id": "016d6c3d18400300964f2ff0d21a4e00",
+		"score": "0.00",
+		"children": [{
+			"displayValue": "Manage service delivery resources",
+			"hierarchy_id": "3.1",
+			"sys_id": "0d6d6c3d18400300964f2ff0d21a4e01",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Deliver Services",
+				"value": "016d6c3d18400300964f2ff0d21a4e00"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "3.1 Manage service delivery resources",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"displayValue": "Deliver service to customer",
+			"hierarchy_id": "3.2",
+			"sys_id": "c16d6c3d18400300964f2ff0d21a4e02",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Deliver Services",
+				"value": "016d6c3d18400300964f2ff0d21a4e00"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "3.2 Deliver service to customer",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"hierarchy_id": "3.3",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Deliver Services",
+				"value": "016d6c3d18400300964f2ff0d21a4e00"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Establish service delivery governance and strategies",
+			"sys_id": "c56d6c3d18400300964f2ff0d21a4e00",
+			"score": "0.00",
+			"children": [{
+				"hierarchy_id": "3.3.1",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Establish service delivery governance and strategies",
+					"value": "c56d6c3d18400300964f2ff0d21a4e00"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Establish service delivery governance",
+				"sys_id": "8d6d6c3d18400300964f2ff0d21a4e00",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Set up and maintain service delivery governance and management system",
+					"hierarchy_id": "3.3.1.1",
+					"sys_id": "456d6c3d18400300964f2ff0d21a4e01",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Establish service delivery governance",
+						"value": "8d6d6c3d18400300964f2ff0d21a4e00"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "3.3.1.1 Set up and maintain service delivery governance and management system",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "3.3.1 Establish service delivery governance",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "3.3 Establish service delivery governance and strategies",
+			"projectInvestment": null,
+			"totalChildren": 2,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}],
+		"name": "3.0 Deliver Services",
+		"projectInvestment": null,
+		"totalChildren": 5,
+		"hierarchy_level": "0",
+		"applications": 0
+	}, {
+		"hierarchy_id": "4.0",
+		"parent": null,
+		"color": 2,
+		"indcScores": [],
+		"leaf_node": false,
+		"displayValue": "Manage Information Technology",
+		"sys_id": "056d6c3d18400300964f2ff0d21a4e13",
+		"score": "0.00",
+		"children": [{
+			"displayValue": "Deliver and support information technology services",
+			"hierarchy_id": "4.1",
+			"sys_id": "196d6c3d18400300964f2ff0d21a4e18",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Information Technology",
+				"value": "056d6c3d18400300964f2ff0d21a4e13"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "4.1 Deliver and support information technology services",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"displayValue": "Develop and implement security, privacy, and data protection controls",
+			"hierarchy_id": "4.2",
+			"sys_id": "1d6d6c3d18400300964f2ff0d21a4e16",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Information Technology",
+				"value": "056d6c3d18400300964f2ff0d21a4e13"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "4.2 Develop and implement security, privacy, and data protection controls",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"displayValue": "Deploy information technology solutions",
+			"hierarchy_id": "4.3",
+			"sys_id": "516d6c3d18400300964f2ff0d21a4e18",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Information Technology",
+				"value": "056d6c3d18400300964f2ff0d21a4e13"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "4.3 Deploy information technology solutions",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": "2"
+		}, {
+			"displayValue": "Develop and maintain information technology solutions",
+			"hierarchy_id": "4.4",
+			"sys_id": "996d6c3d18400300964f2ff0d21a4e17",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Information Technology",
+				"value": "056d6c3d18400300964f2ff0d21a4e13"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "4.4 Develop and maintain information technology solutions",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": 0
+		}, {
+			"displayValue": "Manage enterprise information",
+			"hierarchy_id": "4.5",
+			"sys_id": "d16d6c3d18400300964f2ff0d21a4e17",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Information Technology",
+				"value": "056d6c3d18400300964f2ff0d21a4e13"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "4.5 Manage enterprise information",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": 0
+		}, {
+			"hierarchy_id": "4.6",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Information Technology",
+				"value": "056d6c3d18400300964f2ff0d21a4e13"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Develop and manage IT customer relationships",
+			"sys_id": "d56d6c3d18400300964f2ff0d21a4e15",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Develop and manage IT service levels",
+				"hierarchy_id": "4.6.1",
+				"sys_id": "556d6c3d18400300964f2ff0d21a4e16",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Develop and manage IT customer relationships",
+					"value": "d56d6c3d18400300964f2ff0d21a4e15"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "4.6.1 Develop and manage IT service levels",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Develop IT services and solutions strategy",
+				"hierarchy_id": "4.6.2",
+				"sys_id": "9d6d6c3d18400300964f2ff0d21a4e15",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Develop and manage IT customer relationships",
+					"value": "d56d6c3d18400300964f2ff0d21a4e15"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "4.6.2 Develop IT services and solutions strategy",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": "1"
+			}],
+			"name": "4.6 Develop and manage IT customer relationships",
+			"projectInvestment": null,
+			"totalChildren": 2,
+			"hierarchy_level": "1",
+			"applications": 0
+		}, {
+			"hierarchy_id": "4.7",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Information Technology",
+				"value": "056d6c3d18400300964f2ff0d21a4e13"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Manage the business of information technology",
+			"sys_id": "c96d6c3d18400300964f2ff0d21a4e13",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Manage the IT portfolio",
+				"hierarchy_id": "4.7.1",
+				"sys_id": "016d6c3d18400300964f2ff0d21a4e15",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Manage the business of information technology",
+					"value": "c96d6c3d18400300964f2ff0d21a4e13"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "4.7.1 Manage the IT portfolio",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": "2"
+			}, {
+				"displayValue": "Define the enterprise architecture",
+				"hierarchy_id": "4.7.2",
+				"sys_id": "496d6c3d18400300964f2ff0d21a4e14",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Manage the business of information technology",
+					"value": "c96d6c3d18400300964f2ff0d21a4e13"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "4.7.2 Define the enterprise architecture",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Develop the enterprise IT strategy",
+				"hierarchy_id": "4.7.3",
+				"sys_id": "816d6c3d18400300964f2ff0d21a4e14",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Manage the business of information technology",
+					"value": "c96d6c3d18400300964f2ff0d21a4e13"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "4.7.3 Develop the enterprise IT strategy",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "4.7 Manage the business of information technology",
+			"projectInvestment": null,
+			"totalChildren": 3,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}],
+		"name": "4.0 Manage Information Technology",
+		"projectInvestment": null,
+		"totalChildren": 12,
+		"hierarchy_level": "0",
+		"applications": 0
+	}, {
+		"hierarchy_id": "5.0",
+		"parent": null,
+		"color": 2,
+		"indcScores": [],
+		"leaf_node": false,
+		"displayValue": "Develop and Manage Human Capital",
+		"sys_id": "0d6d6c3d18400300964f2ff0d21a4e08",
+		"score": "0.00",
+		"children": [{
+			"displayValue": "Manage employee relations",
+			"hierarchy_id": "5.1",
+			"sys_id": "496d6c3d18400300964f2ff0d21a4e0d",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Develop and Manage Human Capital",
+				"value": "0d6d6c3d18400300964f2ff0d21a4e08"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "5.1 Manage employee relations",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"displayValue": "Manage employee information and analytics",
+			"hierarchy_id": "5.2",
+			"sys_id": "4d6d6c3d18400300964f2ff0d21a4e12",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Develop and Manage Human Capital",
+				"value": "0d6d6c3d18400300964f2ff0d21a4e08"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "5.2 Manage employee information and analytics",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"displayValue": "Develop and counsel employees",
+			"hierarchy_id": "5.3",
+			"sys_id": "816d6c3d18400300964f2ff0d21a4e0d",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Develop and Manage Human Capital",
+				"value": "0d6d6c3d18400300964f2ff0d21a4e08"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "5.3 Develop and counsel employees",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"displayValue": "Develop and manage human resources planning, policies, and strategies",
+			"hierarchy_id": "5.4",
+			"sys_id": "c16d6c3d18400300964f2ff0d21a4e09",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Develop and Manage Human Capital",
+				"value": "0d6d6c3d18400300964f2ff0d21a4e08"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "5.4 Develop and manage human resources planning, policies, and strategies",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": 0
+		}, {
+			"hierarchy_id": "5.5",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Develop and Manage Human Capital",
+				"value": "0d6d6c3d18400300964f2ff0d21a4e08"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Reward and retain employees",
+			"sys_id": "016d6c3d18400300964f2ff0d21a4e0e",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Manage employee assistance and retention",
+				"hierarchy_id": "5.5.1",
+				"sys_id": "0d6d6c3d18400300964f2ff0d21a4e0f",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Reward and retain employees",
+					"value": "016d6c3d18400300964f2ff0d21a4e0e"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "5.5.1 Manage employee assistance and retention",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Manage and administer benefits",
+				"hierarchy_id": "5.5.2",
+				"sys_id": "456d6c3d18400300964f2ff0d21a4e0f",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Reward and retain employees",
+					"value": "016d6c3d18400300964f2ff0d21a4e0e"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "5.5.2 Manage and administer benefits",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Administer payroll",
+				"hierarchy_id": "5.5.3",
+				"sys_id": "c16d6c3d18400300964f2ff0d21a4e10",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Reward and retain employees",
+					"value": "016d6c3d18400300964f2ff0d21a4e0e"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "5.5.3 Administer payroll",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"hierarchy_id": "5.5.4",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Reward and retain employees",
+					"value": "016d6c3d18400300964f2ff0d21a4e0e"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Develop and manage reward, recognition, and motivation programs",
+				"sys_id": "c56d6c3d18400300964f2ff0d21a4e0e",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Develop salary/compensation structure and plan",
+					"hierarchy_id": "5.5.4.1",
+					"sys_id": "8d6d6c3d18400300964f2ff0d21a4e0e",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Develop and manage reward, recognition, and motivation programs",
+						"value": "c56d6c3d18400300964f2ff0d21a4e0e"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "5.5.4.1 Develop salary/compensation structure and plan",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "5.5.4 Develop and manage reward, recognition, and motivation programs",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "5.5 Reward and retain employees",
+			"projectInvestment": null,
+			"totalChildren": 5,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"hierarchy_id": "5.6",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Develop and Manage Human Capital",
+				"value": "0d6d6c3d18400300964f2ff0d21a4e08"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Recruit, source, and select employees",
+			"sys_id": "896d6c3d18400300964f2ff0d21a4e09",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Screen and select candidates",
+				"hierarchy_id": "5.6.1",
+				"sys_id": "056d6c3d18400300964f2ff0d21a4e0c",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Recruit, source, and select employees",
+					"value": "896d6c3d18400300964f2ff0d21a4e09"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "5.6.1 Screen and select candidates",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Manage applicant information",
+				"hierarchy_id": "5.6.2",
+				"sys_id": "c96d6c3d18400300964f2ff0d21a4e0c",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Recruit, source, and select employees",
+					"value": "896d6c3d18400300964f2ff0d21a4e09"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "5.6.2 Manage applicant information",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"hierarchy_id": "5.6.3",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Recruit, source, and select employees",
+					"value": "896d6c3d18400300964f2ff0d21a4e09"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Recruit/Source candidates",
+				"sys_id": "016d6c3d18400300964f2ff0d21a4e0b",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Determine recruitment methods and channels",
+					"hierarchy_id": "5.6.3.1",
+					"sys_id": "4d6d6c3d18400300964f2ff0d21a4e0b",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Recruit/Source candidates",
+						"value": "016d6c3d18400300964f2ff0d21a4e0b"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "5.6.3.1 Determine recruitment methods and channels",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "5.6.3 Recruit/Source candidates",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"hierarchy_id": "5.6.4",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Recruit, source, and select employees",
+					"value": "896d6c3d18400300964f2ff0d21a4e09"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Manage employee requisitions",
+				"sys_id": "416d6c3d18400300964f2ff0d21a4e0a",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Align staffing plan to work force plan and business unit strategies/resource needs",
+					"hierarchy_id": "5.6.4.1",
+					"sys_id": "096d6c3d18400300964f2ff0d21a4e0a",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Manage employee requisitions",
+						"value": "416d6c3d18400300964f2ff0d21a4e0a"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "5.6.4.1 Align staffing plan to work force plan and business unit strategies/resource needs",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "5.6.4 Manage employee requisitions",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "5.6 Recruit, source, and select employees",
+			"projectInvestment": null,
+			"totalChildren": 6,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"hierarchy_id": "5.7",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Develop and Manage Human Capital",
+				"value": "0d6d6c3d18400300964f2ff0d21a4e08"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Redeploy and retire employees",
+			"sys_id": "896d6c3d18400300964f2ff0d21a4e10",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Manage separation",
+				"hierarchy_id": "5.7.1",
+				"sys_id": "096d6c3d18400300964f2ff0d21a4e11",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Redeploy and retire employees",
+					"value": "896d6c3d18400300964f2ff0d21a4e10"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "5.7.1 Manage separation",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Manage promotion and demotion process",
+				"hierarchy_id": "5.7.2",
+				"sys_id": "416d6c3d18400300964f2ff0d21a4e11",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Redeploy and retire employees",
+					"value": "896d6c3d18400300964f2ff0d21a4e10"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "5.7.2 Manage promotion and demotion process",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Manage leave of absence",
+				"hierarchy_id": "5.7.3",
+				"sys_id": "856d6c3d18400300964f2ff0d21a4e12",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Redeploy and retire employees",
+					"value": "896d6c3d18400300964f2ff0d21a4e10"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "5.7.3 Manage leave of absence",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": "1"
+			}, {
+				"displayValue": "Manage retirement",
+				"hierarchy_id": "5.7.4",
+				"sys_id": "cd6d6c3d18400300964f2ff0d21a4e11",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Redeploy and retire employees",
+					"value": "896d6c3d18400300964f2ff0d21a4e10"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "5.7.4 Manage retirement",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "5.7 Redeploy and retire employees",
+			"projectInvestment": null,
+			"totalChildren": 4,
+			"hierarchy_level": "1",
+			"applications": 0
+		}],
+		"name": "5.0 Develop and Manage Human Capital",
+		"projectInvestment": null,
+		"totalChildren": 22,
+		"hierarchy_level": "0",
+		"applications": "1"
+	}, {
+		"hierarchy_id": "6.0",
+		"parent": null,
+		"color": 2,
+		"indcScores": [],
+		"leaf_node": false,
+		"displayValue": "Deliver Physical Products",
+		"sys_id": "856d2c3d18400300964f2ff0d21a4ef6",
+		"score": "0.00",
+		"children": [{
+			"hierarchy_id": "6.1",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Deliver Physical Products",
+				"value": "856d2c3d18400300964f2ff0d21a4ef6"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Procure materials and services",
+			"sys_id": "0d6d2c3d18400300964f2ff0d21a4efa",
+			"score": "0.00",
+			"children": [{
+				"hierarchy_id": "6.1.1",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Procure materials and services",
+					"value": "0d6d2c3d18400300964f2ff0d21a4efa"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Develop sourcing strategies",
+				"sys_id": "c16d2c3d18400300964f2ff0d21a4efb",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Develop procurement plan",
+					"hierarchy_id": "6.1.1.1",
+					"sys_id": "896d2c3d18400300964f2ff0d21a4efb",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Develop sourcing strategies",
+						"value": "c16d2c3d18400300964f2ff0d21a4efb"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "6.1.1.1 Develop procurement plan",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": "2"
+				}],
+				"name": "6.1.1 Develop sourcing strategies",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "6.1 Procure materials and services",
+			"projectInvestment": null,
+			"totalChildren": 2,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"hierarchy_id": "6.2",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Deliver Physical Products",
+				"value": "856d2c3d18400300964f2ff0d21a4ef6"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Manage logistics and warehousing",
+			"sys_id": "c96d2c3d18400300964f2ff0d21a4efe",
+			"score": "0.00",
+			"children": [{
+				"hierarchy_id": "6.2.1",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Manage logistics and warehousing",
+					"value": "c96d2c3d18400300964f2ff0d21a4efe"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Provide logistics governance",
+				"sys_id": "816d2c3d18400300964f2ff0d21a4eff",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Translate customer service requirements into logistics requirements",
+					"hierarchy_id": "6.2.1.1",
+					"sys_id": "496d2c3d18400300964f2ff0d21a4eff",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Provide logistics governance",
+						"value": "816d2c3d18400300964f2ff0d21a4eff"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "6.2.1.1 Translate customer service requirements into logistics requirements",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "6.2.1 Provide logistics governance",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": "1"
+			}],
+			"name": "6.2 Manage logistics and warehousing",
+			"projectInvestment": null,
+			"totalChildren": 2,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"hierarchy_id": "6.3",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Deliver Physical Products",
+				"value": "856d2c3d18400300964f2ff0d21a4ef6"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Produce/Manufacture/Deliver product",
+			"sys_id": "416d2c3d18400300964f2ff0d21a4efc",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Perform quality testing",
+				"hierarchy_id": "6.3.1",
+				"sys_id": "056d2c3d18400300964f2ff0d21a4efe",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Produce/Manufacture/Deliver product",
+					"value": "416d2c3d18400300964f2ff0d21a4efc"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "6.3.1 Perform quality testing",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Produce product",
+				"hierarchy_id": "6.3.2",
+				"sys_id": "4d6d2c3d18400300964f2ff0d21a4efd",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Produce/Manufacture/Deliver product",
+					"value": "416d2c3d18400300964f2ff0d21a4efc"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "6.3.2 Produce product",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"hierarchy_id": "6.3.3",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Produce/Manufacture/Deliver product",
+					"value": "416d2c3d18400300964f2ff0d21a4efc"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Schedule production",
+				"sys_id": "096d2c3d18400300964f2ff0d21a4efc",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Generate line level plan",
+					"hierarchy_id": "6.3.3.1",
+					"sys_id": "856d2c3d18400300964f2ff0d21a4efd",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Schedule production",
+						"value": "096d2c3d18400300964f2ff0d21a4efc"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "6.3.3.1 Generate line level plan",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": "1"
+				}, {
+					"displayValue": "Model and simulate plant",
+					"hierarchy_id": "6.3.3.2",
+					"sys_id": "cd6d2c3d18400300964f2ff0d21a4efc",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Schedule production",
+						"value": "096d2c3d18400300964f2ff0d21a4efc"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "6.3.3.2 Model and simulate plant",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": "1"
+				}],
+				"name": "6.3.3 Schedule production",
+				"projectInvestment": null,
+				"totalChildren": 2,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "6.3 Produce/Manufacture/Deliver product",
+			"projectInvestment": null,
+			"totalChildren": 5,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"hierarchy_id": "6.4",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Deliver Physical Products",
+				"value": "856d2c3d18400300964f2ff0d21a4ef6"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Plan for and align supply chain resources",
+			"sys_id": "4d6d2c3d18400300964f2ff0d21a4ef6",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Create materials plan",
+				"hierarchy_id": "6.4.1",
+				"sys_id": "016d2c3d18400300964f2ff0d21a4ef9",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Plan for and align supply chain resources",
+					"value": "4d6d2c3d18400300964f2ff0d21a4ef6"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "6.4.1 Create materials plan",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Create and manage master production schedule",
+				"hierarchy_id": "6.4.2",
+				"sys_id": "c56d2c3d18400300964f2ff0d21a4ef9",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Plan for and align supply chain resources",
+					"value": "4d6d2c3d18400300964f2ff0d21a4ef6"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "6.4.2 Create and manage master production schedule",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"hierarchy_id": "6.4.3",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Plan for and align supply chain resources",
+					"value": "4d6d2c3d18400300964f2ff0d21a4ef6"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Develop production and materials strategies",
+				"sys_id": "056d2c3d18400300964f2ff0d21a4ef7",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Define manufacturing goals",
+					"hierarchy_id": "6.4.3.1",
+					"sys_id": "c96d2c3d18400300964f2ff0d21a4ef7",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Develop production and materials strategies",
+						"value": "056d2c3d18400300964f2ff0d21a4ef7"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "6.4.3.1 Define manufacturing goals",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "6.4.3 Develop production and materials strategies",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"hierarchy_id": "6.4.4",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Plan for and align supply chain resources",
+					"value": "4d6d2c3d18400300964f2ff0d21a4ef6"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Manage demand for products and services",
+				"sys_id": "816d2c3d18400300964f2ff0d21a4ef8",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Develop baseline demand forecasts",
+					"hierarchy_id": "6.4.4.1",
+					"sys_id": "496d2c3d18400300964f2ff0d21a4ef8",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Manage demand for products and services",
+						"value": "816d2c3d18400300964f2ff0d21a4ef8"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "6.4.4.1 Develop baseline demand forecasts",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "6.4.4 Manage demand for products and services",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"hierarchy_id": "6.4.5",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Plan for and align supply chain resources",
+					"value": "4d6d2c3d18400300964f2ff0d21a4ef6"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Plan distribution requirements",
+				"sys_id": "8d6d2c3d18400300964f2ff0d21a4ef9",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Maintain master data",
+					"hierarchy_id": "6.4.5.1",
+					"sys_id": "456d2c3d18400300964f2ff0d21a4efa",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Plan distribution requirements",
+						"value": "8d6d2c3d18400300964f2ff0d21a4ef9"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "6.4.5.1 Maintain master data",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "6.4.5 Plan distribution requirements",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "6.4 Plan for and align supply chain resources",
+			"projectInvestment": null,
+			"totalChildren": 8,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}],
+		"name": "6.0 Deliver Physical Products",
+		"projectInvestment": null,
+		"totalChildren": 21,
+		"hierarchy_level": "0",
+		"applications": "26"
+	}, {
+		"hierarchy_id": "7.0",
+		"parent": null,
+		"color": 2,
+		"indcScores": [],
+		"leaf_node": false,
+		"displayValue": "Manage Customer Service",
+		"sys_id": "896d6c3d18400300964f2ff0d21a4e02",
+		"score": "0.00",
+		"children": [{
+			"displayValue": "Evaluate customer service operations and customer satisfaction",
+			"hierarchy_id": "7.1",
+			"sys_id": "456d6c3d18400300964f2ff0d21a4e08",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Customer Service",
+				"value": "896d6c3d18400300964f2ff0d21a4e02"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "7.1 Evaluate customer service operations and customer satisfaction",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"displayValue": "Manage product recalls and regulatory audits",
+			"hierarchy_id": "7.2",
+			"sys_id": "8d6d6c3d18400300964f2ff0d21a4e07",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Customer Service",
+				"value": "896d6c3d18400300964f2ff0d21a4e02"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "7.2 Manage product recalls and regulatory audits",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"hierarchy_id": "7.3",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Customer Service",
+				"value": "896d6c3d18400300964f2ff0d21a4e02"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Plan and manage customer service contacts",
+			"sys_id": "416d6c3d18400300964f2ff0d21a4e03",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Report incidents and risks to regulatory bodies",
+				"hierarchy_id": "7.3.1",
+				"sys_id": "056d6c3d18400300964f2ff0d21a4e05",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Plan and manage customer service contacts",
+					"value": "416d6c3d18400300964f2ff0d21a4e03"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "7.3.1 Report incidents and risks to regulatory bodies",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Manage customer complaints",
+				"hierarchy_id": "7.3.2",
+				"sys_id": "4d6d6c3d18400300964f2ff0d21a4e04",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Plan and manage customer service contacts",
+					"value": "416d6c3d18400300964f2ff0d21a4e03"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "7.3.2 Manage customer complaints",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": "1"
+			}, {
+				"displayValue": "Manage customer service problems, requests, and inquiries",
+				"hierarchy_id": "7.3.3",
+				"sys_id": "856d6c3d18400300964f2ff0d21a4e04",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Plan and manage customer service contacts",
+					"value": "416d6c3d18400300964f2ff0d21a4e03"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "7.3.3 Manage customer service problems, requests, and inquiries",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": "1"
+			}, {
+				"hierarchy_id": "7.3.4",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Plan and manage customer service contacts",
+					"value": "416d6c3d18400300964f2ff0d21a4e03"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Plan and manage customer service work force",
+				"sys_id": "096d6c3d18400300964f2ff0d21a4e03",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Forecast volume of customer service contacts",
+					"hierarchy_id": "7.3.4.1",
+					"sys_id": "cd6d6c3d18400300964f2ff0d21a4e03",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Plan and manage customer service work force",
+						"value": "096d6c3d18400300964f2ff0d21a4e03"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "7.3.4.1 Forecast volume of customer service contacts",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "7.3.4 Plan and manage customer service work force",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": "1"
+			}],
+			"name": "7.3 Plan and manage customer service contacts",
+			"projectInvestment": null,
+			"totalChildren": 5,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"hierarchy_id": "7.4",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Customer Service",
+				"value": "896d6c3d18400300964f2ff0d21a4e02"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Service products after sales",
+			"sys_id": "c96d6c3d18400300964f2ff0d21a4e05",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Service products",
+				"hierarchy_id": "7.4.1",
+				"sys_id": "016d6c3d18400300964f2ff0d21a4e07",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Service products after sales",
+					"value": "c96d6c3d18400300964f2ff0d21a4e05"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "7.4.1 Service products",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Manage supplier recovery",
+				"hierarchy_id": "7.4.2",
+				"sys_id": "496d6c3d18400300964f2ff0d21a4e06",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Service products after sales",
+					"value": "c96d6c3d18400300964f2ff0d21a4e05"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "7.4.2 Manage supplier recovery",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Process warranty claims",
+				"hierarchy_id": "7.4.3",
+				"sys_id": "816d6c3d18400300964f2ff0d21a4e06",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Service products after sales",
+					"value": "c96d6c3d18400300964f2ff0d21a4e05"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "7.4.3 Process warranty claims",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Salvage or repair returned products",
+				"hierarchy_id": "7.4.4",
+				"sys_id": "c56d6c3d18400300964f2ff0d21a4e07",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Service products after sales",
+					"value": "c96d6c3d18400300964f2ff0d21a4e05"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "7.4.4 Salvage or repair returned products",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "7.4 Service products after sales",
+			"projectInvestment": null,
+			"totalChildren": 4,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}],
+		"name": "7.0 Manage Customer Service",
+		"projectInvestment": null,
+		"totalChildren": 13,
+		"hierarchy_level": "0",
+		"applications": 0
+	}, {
+		"hierarchy_id": "8.0",
+		"parent": null,
+		"color": 2,
+		"indcScores": [],
+		"leaf_node": false,
+		"displayValue": "Develop Vision and Strategy",
+		"sys_id": "916d6c3d18400300964f2ff0d21a4e22",
+		"score": "0.00",
+		"children": [{
+			"hierarchy_id": "8.1",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Develop Vision and Strategy",
+				"value": "916d6c3d18400300964f2ff0d21a4e22"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Execute and measure strategic initiatives",
+			"sys_id": "056d2c3d18400300964f2ff0d21a4ee2",
+			"score": "0.00",
+			"children": [{
+				"hierarchy_id": "8.1.1",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Execute and measure strategic initiatives",
+					"value": "056d2c3d18400300964f2ff0d21a4ee2"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Develop strategic initiatives",
+				"sys_id": "c96d2c3d18400300964f2ff0d21a4ee2",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Communicate strategic initiatives to business units and stakeholders",
+					"hierarchy_id": "8.1.1.1",
+					"sys_id": "496d2c3d18400300964f2ff0d21a4ee3",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Develop strategic initiatives",
+						"value": "c96d2c3d18400300964f2ff0d21a4ee2"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "8.1.1.1 Communicate strategic initiatives to business units and stakeholders",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": "1"
+				}, {
+					"displayValue": "Prioritize strategic initiatives",
+					"hierarchy_id": "8.1.1.2",
+					"sys_id": "816d2c3d18400300964f2ff0d21a4ee3",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Develop strategic initiatives",
+						"value": "c96d2c3d18400300964f2ff0d21a4ee2"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "8.1.1.2 Prioritize strategic initiatives",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "8.1.1 Develop strategic initiatives",
+				"projectInvestment": null,
+				"totalChildren": 2,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "8.1 Execute and measure strategic initiatives",
+			"projectInvestment": null,
+			"totalChildren": 3,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"hierarchy_id": "8.2",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Develop Vision and Strategy",
+				"value": "916d6c3d18400300964f2ff0d21a4e22"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Define the business concept and long-term vision",
+			"sys_id": "596d6c3d18400300964f2ff0d21a4e22",
+			"score": "0.00",
+			"children": [{
+				"hierarchy_id": "8.2.1",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Define the business concept and long-term vision",
+					"value": "596d6c3d18400300964f2ff0d21a4e22"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Survey market and determine customer needs and wants",
+				"sys_id": "096d2c3d18400300964f2ff0d21a4ee0",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Conduct qualitative/quantitative research and assessments",
+					"hierarchy_id": "8.2.1.1",
+					"sys_id": "cd6d2c3d18400300964f2ff0d21a4ee0",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Survey market and determine customer needs and wants",
+						"value": "096d2c3d18400300964f2ff0d21a4ee0"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "8.2.1.1 Conduct qualitative/quantitative research and assessments",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": "1"
+				}],
+				"name": "8.2.1 Survey market and determine customer needs and wants",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": "1"
+			}, {
+				"hierarchy_id": "8.2.2",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Define the business concept and long-term vision",
+					"value": "596d6c3d18400300964f2ff0d21a4e22"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Assess the internal environment",
+				"sys_id": "856d2c3d18400300964f2ff0d21a4ee1",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Analyze financial health",
+					"hierarchy_id": "8.2.2.1",
+					"sys_id": "4d6d2c3d18400300964f2ff0d21a4ee1",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Assess the internal environment",
+						"value": "856d2c3d18400300964f2ff0d21a4ee1"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "8.2.2.1 Analyze financial health",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": "1"
+				}],
+				"name": "8.2.2 Assess the internal environment",
+				"projectInvestment": null,
+				"totalChildren": 1,
+				"hierarchy_level": "2",
+				"applications": "1"
+			}, {
+				"hierarchy_id": "8.2.3",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Define the business concept and long-term vision",
+					"value": "596d6c3d18400300964f2ff0d21a4e22"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Assess the external environment",
+				"sys_id": "116d6c3d18400300964f2ff0d21a4e23",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Analyze demographics",
+					"hierarchy_id": "8.2.3.1",
+					"sys_id": "416d2c3d18400300964f2ff0d21a4ee0",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Assess the external environment",
+						"value": "116d6c3d18400300964f2ff0d21a4e23"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "8.2.3.1 Analyze demographics",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": "1"
+				}, {
+					"displayValue": "Identify competitors",
+					"hierarchy_id": "8.2.3.2",
+					"sys_id": "896d2c3d18400300964f2ff0d21a4edf",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Assess the external environment",
+						"value": "116d6c3d18400300964f2ff0d21a4e23"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "8.2.3.2 Identify competitors",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "8.2.3 Assess the external environment",
+				"projectInvestment": null,
+				"totalChildren": 2,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "8.2 Define the business concept and long-term vision",
+			"projectInvestment": null,
+			"totalChildren": 7,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}],
+		"name": "8.0 Develop Vision and Strategy",
+		"projectInvestment": null,
+		"totalChildren": 12,
+		"hierarchy_level": "0",
+		"applications": 0
+	}, {
+		"hierarchy_id": "9.0",
+		"parent": null,
+		"color": 2,
+		"indcScores": [],
+		"leaf_node": false,
+		"displayValue": "Manage Financial Resources",
+		"sys_id": "dd6d6c3d18400300964f2ff0d21a4e18",
+		"score": "0.00",
+		"children": [{
+			"displayValue": "Perform general accounting and reporting",
+			"hierarchy_id": "9.1",
+			"sys_id": "1d6d6c3d18400300964f2ff0d21a4e1d",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Financial Resources",
+				"value": "dd6d6c3d18400300964f2ff0d21a4e18"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "9.1 Perform general accounting and reporting",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"displayValue": "Manage internal controls",
+			"hierarchy_id": "9.2",
+			"sys_id": "5d6d6c3d18400300964f2ff0d21a4e20",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Financial Resources",
+				"value": "dd6d6c3d18400300964f2ff0d21a4e18"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "9.2 Manage internal controls",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"displayValue": "Manage treasury operations",
+			"hierarchy_id": "9.3",
+			"sys_id": "956d6c3d18400300964f2ff0d21a4e20",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Financial Resources",
+				"value": "dd6d6c3d18400300964f2ff0d21a4e18"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "9.3 Manage treasury operations",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": 0
+		}, {
+			"displayValue": "Process accounts payable and expense reimbursements",
+			"hierarchy_id": "9.4",
+			"sys_id": "dd6d6c3d18400300964f2ff0d21a4e1f",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Financial Resources",
+				"value": "dd6d6c3d18400300964f2ff0d21a4e18"
+			},
+			"score": -1,
+			"color": -1,
+			"name": "9.4 Process accounts payable and expense reimbursements",
+			"leaf_node": true,
+			"totalChildren": 0,
+			"hierarchy_level": "1",
+			"applications": "3"
+		}, {
+			"hierarchy_id": "9.5",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Financial Resources",
+				"value": "dd6d6c3d18400300964f2ff0d21a4e18"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Manage taxes",
+			"sys_id": "156d6c3d18400300964f2ff0d21a4e21",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Process taxes",
+				"hierarchy_id": "9.5.1",
+				"sys_id": "d96d6c3d18400300964f2ff0d21a4e21",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Manage taxes",
+					"value": "156d6c3d18400300964f2ff0d21a4e21"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "9.5.1 Process taxes",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "9.5 Manage taxes",
+			"projectInvestment": null,
+			"totalChildren": 1,
+			"hierarchy_level": "1",
+			"applications": 0
+		}, {
+			"hierarchy_id": "9.6",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Financial Resources",
+				"value": "dd6d6c3d18400300964f2ff0d21a4e18"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Perform revenue accounting",
+			"sys_id": "d56d6c3d18400300964f2ff0d21a4e1c",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Process accounts receivable (AR)",
+				"hierarchy_id": "9.6.1",
+				"sys_id": "556d6c3d18400300964f2ff0d21a4e1d",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Perform revenue accounting",
+					"value": "d56d6c3d18400300964f2ff0d21a4e1c"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "9.6.1 Process accounts receivable (AR)",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": "3"
+			}, {
+				"displayValue": "Invoice customer",
+				"hierarchy_id": "9.6.2",
+				"sys_id": "9d6d6c3d18400300964f2ff0d21a4e1c",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Perform revenue accounting",
+					"value": "d56d6c3d18400300964f2ff0d21a4e1c"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "9.6.2 Invoice customer",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "9.6 Perform revenue accounting",
+			"projectInvestment": null,
+			"totalChildren": 2,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}, {
+			"hierarchy_id": "9.7",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Financial Resources",
+				"value": "dd6d6c3d18400300964f2ff0d21a4e18"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Process payroll",
+			"sys_id": "d16d6c3d18400300964f2ff0d21a4e1e",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Manage and process payroll taxes",
+				"hierarchy_id": "9.7.1",
+				"sys_id": "196d6c3d18400300964f2ff0d21a4e1f",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Process payroll",
+					"value": "d16d6c3d18400300964f2ff0d21a4e1e"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "9.7.1 Manage and process payroll taxes",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Manage pay",
+				"hierarchy_id": "9.7.2",
+				"sys_id": "516d6c3d18400300964f2ff0d21a4e1f",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Process payroll",
+					"value": "d16d6c3d18400300964f2ff0d21a4e1e"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "9.7.2 Manage pay",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": "1"
+			}, {
+				"displayValue": "Report time",
+				"hierarchy_id": "9.7.3",
+				"sys_id": "996d6c3d18400300964f2ff0d21a4e1e",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Process payroll",
+					"value": "d16d6c3d18400300964f2ff0d21a4e1e"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "9.7.3 Report time",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "9.7 Process payroll",
+			"projectInvestment": null,
+			"totalChildren": 3,
+			"hierarchy_level": "1",
+			"applications": 0
+		}, {
+			"hierarchy_id": "9.8",
+			"short_description": null,
+			"parent": {
+				"displayValue": "Manage Financial Resources",
+				"value": "dd6d6c3d18400300964f2ff0d21a4e18"
+			},
+			"color": 2,
+			"indcScores": [],
+			"leaf_node": false,
+			"displayValue": "Perform planning and management accounting",
+			"sys_id": "956d6c3d18400300964f2ff0d21a4e19",
+			"score": "0.00",
+			"children": [{
+				"displayValue": "Evaluate and manage financial performance",
+				"hierarchy_id": "9.8.1",
+				"sys_id": "116d6c3d18400300964f2ff0d21a4e1c",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Perform planning and management accounting",
+					"value": "956d6c3d18400300964f2ff0d21a4e19"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "9.8.1 Evaluate and manage financial performance",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": 0
+			}, {
+				"displayValue": "Perform cost management",
+				"hierarchy_id": "9.8.2",
+				"sys_id": "596d6c3d18400300964f2ff0d21a4e1b",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Perform planning and management accounting",
+					"value": "956d6c3d18400300964f2ff0d21a4e19"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "9.8.2 Perform cost management",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": "1"
+			}, {
+				"displayValue": "Perform cost accounting and control",
+				"hierarchy_id": "9.8.3",
+				"sys_id": "916d6c3d18400300964f2ff0d21a4e1b",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Perform planning and management accounting",
+					"value": "956d6c3d18400300964f2ff0d21a4e19"
+				},
+				"score": -1,
+				"color": -1,
+				"name": "9.8.3 Perform cost accounting and control",
+				"leaf_node": true,
+				"totalChildren": 0,
+				"hierarchy_level": "2",
+				"applications": "1"
+			}, {
+				"hierarchy_id": "9.8.4",
+				"short_description": null,
+				"parent": {
+					"displayValue": "Perform planning and management accounting",
+					"value": "956d6c3d18400300964f2ff0d21a4e19"
+				},
+				"color": 2,
+				"indcScores": [],
+				"leaf_node": false,
+				"displayValue": "Perform planning/budgeting/forecasting",
+				"sys_id": "5d6d6c3d18400300964f2ff0d21a4e19",
+				"score": "0.00",
+				"children": [{
+					"displayValue": "Develop and maintain budget policies and procedures",
+					"hierarchy_id": "9.8.4.1",
+					"sys_id": "156d6c3d18400300964f2ff0d21a4e1a",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Perform planning/budgeting/forecasting",
+						"value": "5d6d6c3d18400300964f2ff0d21a4e19"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "9.8.4.1 Develop and maintain budget policies and procedures",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}, {
+					"displayValue": "Prepare periodic budgets and plans",
+					"hierarchy_id": "9.8.4.2",
+					"sys_id": "d96d6c3d18400300964f2ff0d21a4e1a",
+					"short_description": null,
+					"parent": {
+						"displayValue": "Perform planning/budgeting/forecasting",
+						"value": "5d6d6c3d18400300964f2ff0d21a4e19"
+					},
+					"score": -1,
+					"color": -1,
+					"name": "9.8.4.2 Prepare periodic budgets and plans",
+					"leaf_node": true,
+					"totalChildren": 0,
+					"hierarchy_level": "3",
+					"applications": 0
+				}],
+				"name": "9.8.4 Perform planning/budgeting/forecasting",
+				"projectInvestment": null,
+				"totalChildren": 2,
+				"hierarchy_level": "2",
+				"applications": 0
+			}],
+			"name": "9.8 Perform planning and management accounting",
+			"projectInvestment": null,
+			"totalChildren": 6,
+			"hierarchy_level": "1",
+			"applications": "1"
+		}],
+		"name": "9.0 Manage Financial Resources",
+		"projectInvestment": null,
+		"totalChildren": 20,
+		"hierarchy_level": "0",
+		"applications": 0
+	}]
+}
