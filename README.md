@@ -1,9 +1,9 @@
-# `finance_now` — For recruitment drive
+# `finance_now`
 
 
 ### Instructions
 
-Use any setup either local or plunkr.co or jsbin.com or jsfiddle.com
+Use any setup : either local or ![plunkr][plunkr] or ![jsbin][jsbin] or ![jsfiddle][jsfiddle]
 
 You are free to use any framework like AngularJS or jQeury or ReactJS
 
@@ -46,7 +46,7 @@ And now display Total Capex amount and Opex Amount (per month) separately based 
 5. Build inline search for Account Numbers by Name or number.
    As you type it should show top 3 results.
 
-
-[local-app-url]: http://localhost:8000/index.html
-[node]: https://nodejs.org/
 [chart]: https://github.com/ServiceNow-Hiring/finance_angular/blob/master/resource/chart.png
+[plunkr]: https://www.plunkr.co
+[jsbin]:https://www.jsbin.com
+[jsfiddle] https://www.jsfiddle.com
