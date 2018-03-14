@@ -3,7 +3,7 @@
 
 ### Instructions
 
-Use any setup : either local or ![plunkr][plunkr] or ![jsbin][jsbin] or ![jsfiddle][jsfiddle]
+Use any setup : either local or [plunkr](https://plnkr.co) OR [jsbin](https://www.jsbin.com) OR [jsfiddle](https://www.jsfiddle.com)
 
 You are free to use any framework like AngularJS or jQeury or ReactJS
 
@@ -47,6 +47,4 @@ And now display Total Capex amount and Opex Amount (per month) separately based 
    As you type it should show top 3 results.
 
 [chart]: https://github.com/ServiceNow-Hiring/finance_angular/blob/master/resource/chart.png
-[plunkr]: https://www.plunkr.co
-[jsbin]:https://www.jsbin.com
-[jsfiddle] https://www.jsfiddle.com
+
