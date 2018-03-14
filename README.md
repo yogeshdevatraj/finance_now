@@ -11,7 +11,7 @@ You are free to use any framework like AngularJS or jQeury or ReactJS
 
 1. Fetch data in files [```accounts.json``` and ```expenses.json``` under **resource** folder] and show the total records in UI using AJAX call.
 
-    **Expected result:**  Records in  Accounts: <COUNT> | Records in Expenses: <COUNT>
+    **Expected result:**  Records in  Accounts : \<COUNT> | Records in Expenses : \<COUNT>
 
 2. Parse data in ```expenses.json``` and show total amount per each **month**
 Amount - field ```amount```
