@@ -1,35 +1,15 @@
-# `finance_angular` — the starter for AngularJS apps
-
-Starter for angular
+# `finance_now` — For recruitment drive
 
 
-### Prerequisites
+### Instructions
 
+Use any setup either local or plunkr.co or jsbin.com or jsfiddle.com
 
-You must have Node.js and its package manager (npm) installed. You can get them from [here][node].
-
-
-### Install Dependencies
-
-We have preconfigured `npm` to automatically run `bower` so we can simply do:
-
-```
-npm install
-```
-
-### Run the Application
-
-We have preconfigured the project with a simple development web server. The simplest way to start
-this server is:
-
-```
-npm start
-```
-Now browse to the app at [`localhost:8000/index.html`][local-app-url].
+You are free to use any framework like AngularJS or jQeury or ReactJS
 
 ### Tasks
 
-1. Fetch data in files [```accounts.json``` and ```expenses.json``` under **resource** folder] and show the total records in UI.
+1. Fetch data in files [```accounts.json``` and ```expenses.json``` under **resource** folder] and show the total records in UI using AJAX call.
 
     **Expected result:**  Records in  Accounts: <COUNT> | Records in Expenses: <COUNT>
 
