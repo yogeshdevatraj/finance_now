@@ -3,7 +3,7 @@
 
 ### Instructions
 
-Use any setup : either local or [plunkr](https://plnkr.co/edit) OR [jsfiddle](https://www.jsfiddle.net) OR [jsbin](https://www.jsbin.com)
+Use any setup : either local or [plnkr](https://plnkr.co/edit) OR [jsfiddle](https://www.jsfiddle.net) OR [jsbin](https://www.jsbin.com)
 
 You are free to use any framework like AngularJS or jQeury or ReactJS
 
