@@ -1,0 +1,512 @@
+[
+  {
+    "name": "FY20: Q1",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2020-01-01",
+    "end_date_time": "2020-03-31"
+  },
+  {
+    "name": "FY20: Q2",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2020-04-01",
+    "end_date_time": "2020-06-30"
+  },
+  {
+    "name": "FY20: Q3",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2020-07-01",
+    "end_date_time": "2020-09-30"
+  },
+  {
+    "name": "FY20: Q4",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2020-10-01",
+    "end_date_time": "2020-12-31"
+  },
+  {
+    "name": "FY18: M04-Apr",
+    "fiscal_type": "Month",
+    "start_date_time": "2018-04-01",
+    "end_date_time": "2018-04-30"
+  },
+  {
+    "name": "FY20: M01-Jan",
+    "fiscal_type": "Month",
+    "start_date_time": "2020-01-01",
+    "end_date_time": "2020-01-31"
+  },
+  {
+    "name": "FY20: M04-Apr",
+    "fiscal_type": "Month",
+    "start_date_time": "2020-04-01",
+    "end_date_time": "2020-04-30"
+  },
+  {
+    "name": "FY20: M07-Jul",
+    "fiscal_type": "Month",
+    "start_date_time": "2020-07-01",
+    "end_date_time": "2020-07-31"
+  },
+  {
+    "name": "FY20: M10-Oct",
+    "fiscal_type": "Month",
+    "start_date_time": "2020-10-01",
+    "end_date_time": "2020-10-31"
+  },
+  {
+    "name": "FY20: M02-Feb",
+    "fiscal_type": "Month",
+    "start_date_time": "2020-02-01",
+    "end_date_time": "2020-02-29"
+  },
+  {
+    "name": "FY20: M05-May",
+    "fiscal_type": "Month",
+    "start_date_time": "2020-05-01",
+    "end_date_time": "2020-05-31"
+  },
+  {
+    "name": "FY20: M08-Aug",
+    "fiscal_type": "Month",
+    "start_date_time": "2020-08-01",
+    "end_date_time": "2020-08-31"
+  },
+  {
+    "name": "FY20: M11-Nov",
+    "fiscal_type": "Month",
+    "start_date_time": "2020-11-01",
+    "end_date_time": "2020-11-30"
+  },
+  {
+    "name": "FY18: M10-Oct",
+    "fiscal_type": "Month",
+    "start_date_time": "2018-10-01",
+    "end_date_time": "2018-10-31"
+  },
+  {
+    "name": "FY20: M03-Mar",
+    "fiscal_type": "Month",
+    "start_date_time": "2020-03-01",
+    "end_date_time": "2020-03-31"
+  },
+  {
+    "name": "FY20: M06-Jun",
+    "fiscal_type": "Month",
+    "start_date_time": "2020-06-01",
+    "end_date_time": "2020-06-30"
+  },
+  {
+    "name": "FY20: M09-Sep",
+    "fiscal_type": "Month",
+    "start_date_time": "2020-09-01",
+    "end_date_time": "2020-09-30"
+  },
+  {
+    "name": "FY20: M12-Dec",
+    "fiscal_type": "Month",
+    "start_date_time": "2020-12-01",
+    "end_date_time": "2020-12-31"
+  },
+  {
+    "name": "FY18: M07-Jul",
+    "fiscal_type": "Month",
+    "start_date_time": "2018-07-01",
+    "end_date_time": "2018-07-31"
+  },
+  {
+    "name": "FY16: Q3",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2016-07-01",
+    "end_date_time": "2016-09-30"
+  },
+  {
+    "name": "FY16",
+    "fiscal_type": "Year",
+    "start_date_time": "2016-01-01",
+    "end_date_time": "2016-12-31"
+  },
+  {
+    "name": "FY16: M10-Oct",
+    "fiscal_type": "Month",
+    "start_date_time": "2016-10-01",
+    "end_date_time": "2016-10-31"
+  },
+  {
+    "name": "FY16: Q2",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2016-04-01",
+    "end_date_time": "2016-06-30"
+  },
+  {
+    "name": "FY16: Q4",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2016-10-01",
+    "end_date_time": "2016-12-31"
+  },
+  {
+    "name": "FY17: Q4",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2017-10-01",
+    "end_date_time": "2017-12-31"
+  },
+  {
+    "name": "FY17: Q3",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2017-07-01",
+    "end_date_time": "2017-09-30"
+  },
+  {
+    "name": "FY17: Q1",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2017-01-01",
+    "end_date_time": "2017-03-31"
+  },
+  {
+    "name": "FY17: Q2",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2017-04-01",
+    "end_date_time": "2017-06-30"
+  },
+  {
+    "name": "FY18: Q1",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2018-01-01",
+    "end_date_time": "2018-03-31"
+  },
+  {
+    "name": "FY19: M02-Feb",
+    "fiscal_type": "Month",
+    "start_date_time": "2019-02-01",
+    "end_date_time": "2019-02-28"
+  },
+  {
+    "name": "FY19: M05-May",
+    "fiscal_type": "Month",
+    "start_date_time": "2019-05-01",
+    "end_date_time": "2019-05-31"
+  },
+  {
+    "name": "FY19: M08-Aug",
+    "fiscal_type": "Month",
+    "start_date_time": "2019-08-01",
+    "end_date_time": "2019-08-31"
+  },
+  {
+    "name": "FY19: M11-Nov",
+    "fiscal_type": "Month",
+    "start_date_time": "2019-11-01",
+    "end_date_time": "2019-11-30"
+  },
+  {
+    "name": "FY19: M03-Mar",
+    "fiscal_type": "Month",
+    "start_date_time": "2019-03-01",
+    "end_date_time": "2019-03-31"
+  },
+  {
+    "name": "FY19: M06-Jun",
+    "fiscal_type": "Month",
+    "start_date_time": "2019-06-01",
+    "end_date_time": "2019-06-30"
+  },
+  {
+    "name": "FY19: M09-Sep",
+    "fiscal_type": "Month",
+    "start_date_time": "2019-09-01",
+    "end_date_time": "2019-09-30"
+  },
+  {
+    "name": "FY19: M12-Dec",
+    "fiscal_type": "Month",
+    "start_date_time": "2019-12-01",
+    "end_date_time": "2019-12-31"
+  },
+  {
+    "name": "FY18: Q4",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2018-10-01",
+    "end_date_time": "2018-12-31"
+  },
+  {
+    "name": "FY19: Q1",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2019-01-01",
+    "end_date_time": "2019-03-31"
+  },
+  {
+    "name": "FY19: Q2",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2019-04-01",
+    "end_date_time": "2019-06-30"
+  },
+  {
+    "name": "FY19: Q3",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2019-07-01",
+    "end_date_time": "2019-09-30"
+  },
+  {
+    "name": "FY19: Q4",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2019-10-01",
+    "end_date_time": "2019-12-31"
+  },
+  {
+    "name": "FY20",
+    "fiscal_type": "Year",
+    "start_date_time": "2020-01-01",
+    "end_date_time": "2020-12-31"
+  },
+  {
+    "name": "FY18: Q3",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2018-07-01",
+    "end_date_time": "2018-09-30"
+  },
+  {
+    "name": "FY19: M01-Jan",
+    "fiscal_type": "Month",
+    "start_date_time": "2019-01-01",
+    "end_date_time": "2019-01-31"
+  },
+  {
+    "name": "FY19: M04-Apr",
+    "fiscal_type": "Month",
+    "start_date_time": "2019-04-01",
+    "end_date_time": "2019-04-30"
+  },
+  {
+    "name": "FY19: M07-Jul",
+    "fiscal_type": "Month",
+    "start_date_time": "2019-07-01",
+    "end_date_time": "2019-07-31"
+  },
+  {
+    "name": "FY19: M10-Oct",
+    "fiscal_type": "Month",
+    "start_date_time": "2019-10-01",
+    "end_date_time": "2019-10-31"
+  },
+  {
+    "name": "FY18: Q2",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2018-04-01",
+    "end_date_time": "2018-06-30"
+  },
+  {
+    "name": "FY16: M03-Mar",
+    "fiscal_type": "Month",
+    "start_date_time": "2016-03-01",
+    "end_date_time": "2016-03-31"
+  },
+  {
+    "name": "FY16: M09-Sep",
+    "fiscal_type": "Month",
+    "start_date_time": "2016-09-01",
+    "end_date_time": "2016-09-30"
+  },
+  {
+    "name": "FY18",
+    "fiscal_type": "Year",
+    "start_date_time": "2018-01-01",
+    "end_date_time": "2018-12-31"
+  },
+  {
+    "name": "FY16: M06-Jun",
+    "fiscal_type": "Month",
+    "start_date_time": "2016-06-01",
+    "end_date_time": "2016-06-30"
+  },
+  {
+    "name": "FY17: M09-Sep",
+    "fiscal_type": "Month",
+    "start_date_time": "2017-09-01",
+    "end_date_time": "2017-09-30"
+  },
+  {
+    "name": "FY17: M06-Jun",
+    "fiscal_type": "Month",
+    "start_date_time": "2017-06-01",
+    "end_date_time": "2017-06-30"
+  },
+  {
+    "name": "FY17",
+    "fiscal_type": "Year",
+    "start_date_time": "2017-01-01",
+    "end_date_time": "2017-12-31"
+  },
+  {
+    "name": "FY17: M03-Mar",
+    "fiscal_type": "Month",
+    "start_date_time": "2017-03-01",
+    "end_date_time": "2017-03-31"
+  },
+  {
+    "name": "FY17: M12-Dec",
+    "fiscal_type": "Month",
+    "start_date_time": "2017-12-01",
+    "end_date_time": "2017-12-31"
+  },
+  {
+    "name": "FY19",
+    "fiscal_type": "Year",
+    "start_date_time": "2019-01-01",
+    "end_date_time": "2019-12-31"
+  },
+  {
+    "name": "FY18: M09-Sep",
+    "fiscal_type": "Month",
+    "start_date_time": "2018-09-01",
+    "end_date_time": "2018-09-30"
+  },
+  {
+    "name": "FY18: M06-Jun",
+    "fiscal_type": "Month",
+    "start_date_time": "2018-06-01",
+    "end_date_time": "2018-06-30"
+  },
+  {
+    "name": "FY18: M03-Mar",
+    "fiscal_type": "Month",
+    "start_date_time": "2018-03-01",
+    "end_date_time": "2018-03-31"
+  },
+  {
+    "name": "FY18: M12-Dec",
+    "fiscal_type": "Month",
+    "start_date_time": "2018-12-01",
+    "end_date_time": "2018-12-31"
+  },
+  {
+    "name": "FY16: M08-Aug",
+    "fiscal_type": "Month",
+    "start_date_time": "2016-08-01",
+    "end_date_time": "2016-08-31"
+  },
+  {
+    "name": "FY16: M12-Dec",
+    "fiscal_type": "Month",
+    "start_date_time": "2016-12-01",
+    "end_date_time": "2016-12-31"
+  },
+  {
+    "name": "FY16: M05-May",
+    "fiscal_type": "Month",
+    "start_date_time": "2016-05-01",
+    "end_date_time": "2016-05-31"
+  },
+  {
+    "name": "FY16: M02-Feb",
+    "fiscal_type": "Month",
+    "start_date_time": "2016-02-01",
+    "end_date_time": "2016-02-29"
+  },
+  {
+    "name": "FY17: M05-May",
+    "fiscal_type": "Month",
+    "start_date_time": "2017-05-01",
+    "end_date_time": "2017-05-31"
+  },
+  {
+    "name": "FY17: M02-Feb",
+    "fiscal_type": "Month",
+    "start_date_time": "2017-02-01",
+    "end_date_time": "2017-02-28"
+  },
+  {
+    "name": "FY17: M11-Nov",
+    "fiscal_type": "Month",
+    "start_date_time": "2017-11-01",
+    "end_date_time": "2017-11-30"
+  },
+  {
+    "name": "FY17: M08-Aug",
+    "fiscal_type": "Month",
+    "start_date_time": "2017-08-01",
+    "end_date_time": "2017-08-31"
+  },
+  {
+    "name": "FY18: M01-Jan",
+    "fiscal_type": "Month",
+    "start_date_time": "2018-01-01",
+    "end_date_time": "2018-01-31"
+  },
+  {
+    "name": "FY18: M05-May",
+    "fiscal_type": "Month",
+    "start_date_time": "2018-05-01",
+    "end_date_time": "2018-05-31"
+  },
+  {
+    "name": "FY18: M02-Feb",
+    "fiscal_type": "Month",
+    "start_date_time": "2018-02-01",
+    "end_date_time": "2018-02-28"
+  },
+  {
+    "name": "FY18: M11-Nov",
+    "fiscal_type": "Month",
+    "start_date_time": "2018-11-01",
+    "end_date_time": "2018-11-30"
+  },
+  {
+    "name": "FY18: M08-Aug",
+    "fiscal_type": "Month",
+    "start_date_time": "2018-08-01",
+    "end_date_time": "2018-08-31"
+  },
+  {
+    "name": "FY16: M07-Jul",
+    "fiscal_type": "Month",
+    "start_date_time": "2016-07-01",
+    "end_date_time": "2016-07-31"
+  },
+  {
+    "name": "FY16: Q1",
+    "fiscal_type": "Quarter",
+    "start_date_time": "2016-01-01",
+    "end_date_time": "2016-03-31"
+  },
+  {
+    "name": "FY16: M11-Nov",
+    "fiscal_type": "Month",
+    "start_date_time": "2016-11-01",
+    "end_date_time": "2016-11-30"
+  },
+  {
+    "name": "FY16: M04-Apr",
+    "fiscal_type": "Month",
+    "start_date_time": "2016-04-01",
+    "end_date_time": "2016-04-30"
+  },
+  {
+    "name": "FY16: M01-Jan",
+    "fiscal_type": "Month",
+    "start_date_time": "2016-01-01",
+    "end_date_time": "2016-01-31"
+  },
+  {
+    "name": "FY17: M01-Jan",
+    "fiscal_type": "Month",
+    "start_date_time": "2017-01-01",
+    "end_date_time": "2017-01-31"
+  },
+  {
+    "name": "FY17: M10-Oct",
+    "fiscal_type": "Month",
+    "start_date_time": "2017-10-01",
+    "end_date_time": "2017-10-31"
+  },
+  {
+    "name": "FY17: M07-Jul",
+    "fiscal_type": "Month",
+    "start_date_time": "2017-07-01",
+    "end_date_time": "2017-07-31"
+  },
+  {
+    "name": "FY17: M04-Apr",
+    "fiscal_type": "Month",
+    "start_date_time": "2017-04-01",
+    "end_date_time": "2017-04-30"
+  }
+]
