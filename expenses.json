@@ -1,0 +1,5002 @@
+[
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000025329",
+    "amount": "278,134.09",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "France"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000022557",
+    "amount": "1,488,825.91",
+    "posting_date": "2015-07-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000028063",
+    "amount": "1,192,458.8",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000028079",
+    "amount": "1,509,210.34",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000028126",
+    "amount": "695,468.89",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000028253",
+    "amount": "496,418.78",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000062010",
+    "amount": "2,119,594.24",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000062018",
+    "amount": "724,531.68",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000062026",
+    "amount": "170,819.2",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000062034",
+    "amount": "1,456,181.38",
+    "posting_date": "2014-10-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000027183",
+    "amount": "272,763.14",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000060086",
+    "amount": "306,730.98",
+    "posting_date": "2015-06-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000060094",
+    "amount": "174,009.3",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000060102",
+    "amount": "139,733.99",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000060110",
+    "amount": "563,870.81",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000022640",
+    "amount": "897,124.99",
+    "posting_date": "2015-07-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000026236",
+    "amount": "519,145.66",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000062004",
+    "amount": "594,332.74",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000062012",
+    "amount": "155,694.32",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000062020",
+    "amount": "-93,558.3",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000062028",
+    "amount": "79,320.78",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000029096",
+    "amount": "273,115.02",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000060080",
+    "amount": "555,785.2",
+    "posting_date": "2015-06-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000060088",
+    "amount": "227,957.45",
+    "posting_date": "2015-06-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "France"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000060096",
+    "amount": "-76,613.45",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000060104",
+    "amount": "64,886.2",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000062006",
+    "amount": "170,836.22",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000062014",
+    "amount": "272,540.94",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "France"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000062022",
+    "amount": "-272,133.78",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000062030",
+    "amount": "908,525.64",
+    "posting_date": "2014-10-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000027191",
+    "amount": "398,002.28",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000060082",
+    "amount": "529,013.12",
+    "posting_date": "2015-06-18",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000060090",
+    "amount": "51,760.87",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "United Kingdom"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000060098",
+    "amount": "-188,764.38",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000060106",
+    "amount": "104,848.89",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000026197",
+    "amount": "173,630.16",
+    "posting_date": "2015-08-16",
+    "doc_currency": "EUR",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "France"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000062008",
+    "amount": "1,646,520.37",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000062016",
+    "amount": "248,916.22",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000062024",
+    "amount": "767,152.82",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000062032",
+    "amount": "1,585,416.48",
+    "posting_date": "2014-10-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000060084",
+    "amount": "128,240.77",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000060092",
+    "amount": "304,407.93",
+    "posting_date": "2015-06-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000060100",
+    "amount": "627,548.46",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000060108",
+    "amount": "74,860.88",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000027508",
+    "amount": "522,159.4",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000026517",
+    "amount": "67,122.85",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000026612",
+    "amount": "2,609,769.31",
+    "posting_date": "2015-08-16",
+    "doc_currency": "EUR",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "France"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000065004",
+    "amount": "486,177.7",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000065012",
+    "amount": "127,361.49",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000065020",
+    "amount": "-76,532.82",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000065028",
+    "amount": "64,886.2",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000065036",
+    "amount": "375,480.65",
+    "posting_date": "2014-01-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000065044",
+    "amount": "62,759.86",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000061003",
+    "amount": "1,130,450.94",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000061011",
+    "amount": "377,306.16",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000061019",
+    "amount": "492,937.39",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000061027",
+    "amount": "1,152,041.46",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000063006",
+    "amount": "149,463.01",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000063014",
+    "amount": "238,443.52",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "France"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000063022",
+    "amount": "-238,087.3",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000063030",
+    "amount": "794,860.58",
+    "posting_date": "2014-07-17",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000063038",
+    "amount": "373,040.94",
+    "posting_date": "2014-07-17",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000063046",
+    "amount": "198,327.63",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000063054",
+    "amount": "278,391.19",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000063062",
+    "amount": "522,140.32",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000063070",
+    "amount": "603,070.39",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000025698",
+    "amount": "198,327.63",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000065006",
+    "amount": "139,747.91",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000065014",
+    "amount": "222,944.69",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "France"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000065022",
+    "amount": "-222,611.63",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000065030",
+    "amount": "743,194.64",
+    "posting_date": "2014-01-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000065038",
+    "amount": "348,793.28",
+    "posting_date": "2014-01-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000065046",
+    "amount": "185,436.33",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000061005",
+    "amount": "659,304.51",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000061013",
+    "amount": "495,007.11",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000061021",
+    "amount": "141,690.93",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000061029",
+    "amount": "1,314,938.61",
+    "posting_date": "2015-01-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000023860",
+    "amount": "794,860.58",
+    "posting_date": "2015-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000063008",
+    "amount": "1,440,525.26",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000063016",
+    "amount": "217,774.47",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000063024",
+    "amount": "671,174.82",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000063032",
+    "amount": "1,387,066.04",
+    "posting_date": "2014-07-17",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000063040",
+    "amount": "126,579.33",
+    "posting_date": "2014-07-17",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000063048",
+    "amount": "317,645.8",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000063056",
+    "amount": "595,647.6",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000063064",
+    "amount": "795,771.18",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000063072",
+    "amount": "398,002.28",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000022787",
+    "amount": "1,043,866.91",
+    "posting_date": "2015-07-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000065008",
+    "amount": "1,346,891.12",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000065016",
+    "amount": "203,619.13",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000065024",
+    "amount": "627,548.46",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000065032",
+    "amount": "1,296,906.75",
+    "posting_date": "2014-01-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000065040",
+    "amount": "118,351.67",
+    "posting_date": "2014-01-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000065048",
+    "amount": "296,998.82",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000061007",
+    "amount": "258,579.46",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000061015",
+    "amount": "2,474,061.31",
+    "posting_date": "2015-02-15",
+    "doc_currency": "EUR",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "France"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000061023",
+    "amount": "1,311,107.1",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000061031",
+    "amount": "823,426.85",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000023705",
+    "amount": "519,976.15",
+    "posting_date": "2015-07-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000063010",
+    "amount": "1,854,413.16",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000063018",
+    "amount": "633,885.98",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000063026",
+    "amount": "149,448.12",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000063034",
+    "amount": "1,273,999.46",
+    "posting_date": "2014-07-17",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000063042",
+    "amount": "519,145.66",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000063050",
+    "amount": "119,088.5",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000063058",
+    "amount": "744,741.13",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000063066",
+    "amount": "633,637.79",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000063074",
+    "amount": "111,712.93",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000022854",
+    "amount": "49,759.03",
+    "posting_date": "2015-07-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000065002",
+    "amount": "838,811.87",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000065010",
+    "amount": "1,733,876.3",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000065018",
+    "amount": "592,683.39",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000065026",
+    "amount": "139,733.99",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000065034",
+    "amount": "1,191,189.5",
+    "posting_date": "2014-01-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000065042",
+    "amount": "485,401.19",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000061001",
+    "amount": "263,671.12",
+    "posting_date": "2015-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "France"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000061009",
+    "amount": "492,150.09",
+    "posting_date": "2015-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000061017",
+    "amount": "753,527.83",
+    "posting_date": "2015-01-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000061025",
+    "amount": "150,418.58",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000023709",
+    "amount": "149,463.01",
+    "posting_date": "2015-07-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000063004",
+    "amount": "519,976.15",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000063012",
+    "amount": "136,215.5",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000063020",
+    "amount": "-81,853.28",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000063028",
+    "amount": "69,397.01",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000063036",
+    "amount": "401,583.58",
+    "posting_date": "2014-07-17",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000063044",
+    "amount": "67,122.85",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000063052",
+    "amount": "317,115",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000063060",
+    "amount": "2,606,822.17",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000063068",
+    "amount": "112,137.85",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000025963",
+    "amount": "397,638.29",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000023297",
+    "amount": "1,383,024.37",
+    "posting_date": "2015-07-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000026739",
+    "amount": "317,645.8",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000065052",
+    "amount": "296,502.53",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000065060",
+    "amount": "2,437,378.73",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000065068",
+    "amount": "104,848.89",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000065076",
+    "amount": "202,631.34",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000061055",
+    "amount": "380,701.23",
+    "posting_date": "2015-01-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000061063",
+    "amount": "129,132.29",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000061071",
+    "amount": "494,894.08",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000061079",
+    "amount": "494,989.02",
+    "posting_date": "2015-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000061087",
+    "amount": "-133,365.85",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000061095",
+    "amount": "-77,596.91",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000061103",
+    "amount": "72,538.9",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000061035",
+    "amount": "112,895.9",
+    "posting_date": "2015-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000061043",
+    "amount": "1,365,617.95",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000061051",
+    "amount": "360,442.16",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000063078",
+    "amount": "247,901.63",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000063086",
+    "amount": "522,159.4",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000063094",
+    "amount": "626,072.07",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000063102",
+    "amount": "209,204.32",
+    "posting_date": "2014-09-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "France"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000063110",
+    "amount": "804,386.75",
+    "posting_date": "2014-09-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000027702",
+    "amount": "158,669.39",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000065054",
+    "amount": "260,295.76",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000065062",
+    "amount": "488,201.2",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000065070",
+    "amount": "563,870.81",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000065078",
+    "amount": "231,788.02",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000061057",
+    "amount": "51,725.45",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000061065",
+    "amount": "5,297,172.22",
+    "posting_date": "2015-03-18",
+    "doc_currency": "GBP",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "United Kingdom"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000061073",
+    "amount": "329,013.04",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000061081",
+    "amount": "677,813.32",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000061089",
+    "amount": "119,997.2",
+    "posting_date": "2015-01-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000061097",
+    "amount": "-225,706.76",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000061037",
+    "amount": "103,737.05",
+    "posting_date": "2015-01-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000061045",
+    "amount": "1,411,747.26",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000061053",
+    "amount": "1,757,983.68",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000024050",
+    "amount": "397,777.14",
+    "posting_date": "2015-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000063080",
+    "amount": "359,908.93",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000063088",
+    "amount": "745,105.78",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "United Kingdom"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000063096",
+    "amount": "1,192,458.8",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000063104",
+    "amount": "334,859.16",
+    "posting_date": "2014-09-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000065056",
+    "amount": "556,930.51",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000065064",
+    "amount": "744,046.05",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000065072",
+    "amount": "372,132.13",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000065080",
+    "amount": "336,514.85",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000061059",
+    "amount": "2,473,462.81",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000061067",
+    "amount": "353,642.81",
+    "posting_date": "2015-01-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000061075",
+    "amount": "593,516.32",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000061083",
+    "amount": "600,923.91",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000061091",
+    "amount": "754,391.08",
+    "posting_date": "2015-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000061099",
+    "amount": "600,688.62",
+    "posting_date": "2015-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000061039",
+    "amount": "1,460,467.69",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000061047",
+    "amount": "5,329,130.07",
+    "posting_date": "2015-01-15",
+    "doc_currency": "EUR",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "France"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000063082",
+    "amount": "1,509,210.34",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000063090",
+    "amount": "380,213.25",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000063098",
+    "amount": "2,981,279.25",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000063106",
+    "amount": "328,054.52",
+    "posting_date": "2014-09-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000027758",
+    "amount": "1,215,233.61",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000026862",
+    "amount": "745,651.75",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000065050",
+    "amount": "111,347.75",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000065058",
+    "amount": "696,332.96",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000065066",
+    "amount": "592,451.33",
+    "posting_date": "2014-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000065074",
+    "amount": "104,451.59",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000061061",
+    "amount": "186,170.25",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000061069",
+    "amount": "676,843.08",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000061077",
+    "amount": "341,193.67",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000061085",
+    "amount": "317,446.48",
+    "posting_date": "2015-03-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000061093",
+    "amount": "904,696.44",
+    "posting_date": "2015-03-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000061101",
+    "amount": "1,231,387.7",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000061033",
+    "amount": "105,903.86",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000061041",
+    "amount": "2,826,252.73",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000061049",
+    "amount": "188,057.41",
+    "posting_date": "2015-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000063076",
+    "amount": "216,718.01",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000063084",
+    "amount": "496,418.78",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000063092",
+    "amount": "794,888.88",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "United Kingdom"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000063100",
+    "amount": "198,654.27",
+    "posting_date": "2014-09-18",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000063108",
+    "amount": "325,569.98",
+    "posting_date": "2014-09-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000062002",
+    "amount": "1,025,413.86",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000060046",
+    "amount": "417,397.09",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000060054",
+    "amount": "696,332.96",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000060062",
+    "amount": "2,437,378.73",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000060070",
+    "amount": "139,405.21",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "France"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000060078",
+    "amount": "557,486.91",
+    "posting_date": "2015-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000024236",
+    "amount": "1,387,066.04",
+    "posting_date": "2015-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000001011",
+    "amount": "745,105.78",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "United Kingdom"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000027060",
+    "amount": "868,593.72",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000061105",
+    "amount": "365,945.67",
+    "posting_date": "2015-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000060048",
+    "amount": "260,295.76",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000060056",
+    "amount": "216,479.05",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000060064",
+    "amount": "62,608.84",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000060072",
+    "amount": "222,944.69",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "France"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000001001",
+    "amount": "311,293.61",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000026890",
+    "amount": "111,712.93",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000027080",
+    "amount": "1,876,603.64",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000061107",
+    "amount": "762,558.64",
+    "posting_date": "2015-03-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000060042",
+    "amount": "877,692.2",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000060050",
+    "amount": "556,930.51",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000060058",
+    "amount": "185,741.74",
+    "posting_date": "2015-06-18",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000060066",
+    "amount": "743,221.1",
+    "posting_date": "2015-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "United Kingdom"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000060074",
+    "amount": "201,701.26",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000026133",
+    "amount": "119,088.5",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000027020",
+    "amount": "216,718.01",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000061109",
+    "amount": "2,038,521.46",
+    "posting_date": "2015-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000060044",
+    "amount": "1,191,189.5",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000060052",
+    "amount": "696,271.25",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000060060",
+    "amount": "231,788.02",
+    "posting_date": "2015-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000060068",
+    "amount": "195,606.04",
+    "posting_date": "2015-06-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "France"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000060076",
+    "amount": "203,619.13",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000024232",
+    "amount": "109,427.27",
+    "posting_date": "2015-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000025230",
+    "amount": "1,135,540.75",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000062036",
+    "amount": "459,010.03",
+    "posting_date": "2014-10-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000062044",
+    "amount": "76,721.42",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000062052",
+    "amount": "362,462.45",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000062060",
+    "amount": "2,979,597.74",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000062068",
+    "amount": "128,173.56",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000029109",
+    "amount": "1,540,577.73",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000066007",
+    "amount": "1,562,679.24",
+    "posting_date": "2013-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000066015",
+    "amount": "243,745.72",
+    "posting_date": "2013-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000066023",
+    "amount": "-228,112.17",
+    "posting_date": "2013-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000066031",
+    "amount": "449,448.39",
+    "posting_date": "2013-10-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000066039",
+    "amount": "154,972.45",
+    "posting_date": "2013-10-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000066047",
+    "amount": "449,291.5",
+    "posting_date": "2013-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000066055",
+    "amount": "224,141.43",
+    "posting_date": "2013-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000066063",
+    "amount": "62,550.38",
+    "posting_date": "2013-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "United Kingdom"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000063001",
+    "amount": "1,488,825.91",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000062038",
+    "amount": "426,385.79",
+    "posting_date": "2014-10-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000062046",
+    "amount": "226,688.48",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000062054",
+    "amount": "318,201.13",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000062062",
+    "amount": "596,806.39",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000062070",
+    "amount": "689,309.46",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000066001",
+    "amount": "1,682,224.4",
+    "posting_date": "2013-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000066009",
+    "amount": "6,351,670.95",
+    "posting_date": "2013-10-15",
+    "doc_currency": "EUR",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "France"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000066017",
+    "amount": "807,870.53",
+    "posting_date": "2013-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000066025",
+    "amount": "1,467,663.46",
+    "posting_date": "2013-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000066033",
+    "amount": "123,641.87",
+    "posting_date": "2013-10-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000066041",
+    "amount": "314,263.71",
+    "posting_date": "2013-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "France"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000066049",
+    "amount": "842,511.91",
+    "posting_date": "2013-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000066057",
+    "amount": "841,408.43",
+    "posting_date": "2013-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000066065",
+    "amount": "210,281.4",
+    "posting_date": "2013-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000063003",
+    "amount": "1,043,866.91",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000062040",
+    "amount": "144,680.17",
+    "posting_date": "2014-10-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000062048",
+    "amount": "363,069.15",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000062056",
+    "amount": "680,825.21",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000062064",
+    "amount": "909,566.46",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000062072",
+    "amount": "454,916.61",
+    "posting_date": "2014-12-10",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000066003",
+    "amount": "1,179,465.22",
+    "posting_date": "2013-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000066011",
+    "amount": "61,650.41",
+    "posting_date": "2013-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000066019",
+    "amount": "-158,955.78",
+    "posting_date": "2013-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000066027",
+    "amount": "86,457.5",
+    "posting_date": "2013-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000066035",
+    "amount": "504,403.18",
+    "posting_date": "2013-10-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000066043",
+    "amount": "196,184.72",
+    "posting_date": "2013-11-15",
+    "doc_currency": "EUR",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "France"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000066051",
+    "amount": "1,283,047.49",
+    "posting_date": "2013-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000066059",
+    "amount": "261,603.94",
+    "posting_date": "2013-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000062042",
+    "amount": "593,383.49",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000062050",
+    "amount": "136,118.16",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000062058",
+    "amount": "851,239.11",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000062066",
+    "amount": "724,247.99",
+    "posting_date": "2014-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000062074",
+    "amount": "127,687.88",
+    "posting_date": "2014-12-10",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000066005",
+    "amount": "56,222.73",
+    "posting_date": "2013-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000066013",
+    "amount": "589,853.19",
+    "posting_date": "2013-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000066021",
+    "amount": "-92,583.46",
+    "posting_date": "2013-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000066029",
+    "amount": "90,465.57",
+    "posting_date": "2013-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000066037",
+    "amount": "75,659.61",
+    "posting_date": "2013-10-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000066045",
+    "amount": "2,948,778.34",
+    "posting_date": "2013-11-15",
+    "doc_currency": "EUR",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "France"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000066053",
+    "amount": "1,060,646.43",
+    "posting_date": "2013-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000066061",
+    "amount": "168,464.11",
+    "posting_date": "2013-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "France"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000062076",
+    "amount": "247,708.69",
+    "posting_date": "2014-12-10",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000062084",
+    "amount": "567,406.67",
+    "posting_date": "2014-12-10",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000062092",
+    "amount": "908,557.99",
+    "posting_date": "2014-12-10",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "United Kingdom"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000062100",
+    "amount": "227,061.83",
+    "posting_date": "2014-12-11",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000062108",
+    "amount": "372,126.49",
+    "posting_date": "2014-12-11",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000066071",
+    "amount": "308,195.07",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000066079",
+    "amount": "392,143.29",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000066087",
+    "amount": "179,280.54",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000066095",
+    "amount": "1,373,092.46",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000066103",
+    "amount": "671,638.17",
+    "posting_date": "2013-12-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000025699",
+    "amount": "317,115",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000028369",
+    "amount": "2,981,279.25",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000062078",
+    "amount": "283,351.56",
+    "posting_date": "2014-12-10",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000062086",
+    "amount": "596,828.19",
+    "posting_date": "2014-12-10",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000062094",
+    "amount": "715,600.38",
+    "posting_date": "2014-12-10",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000062102",
+    "amount": "239,120.54",
+    "posting_date": "2014-12-11",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "France"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000062110",
+    "amount": "919,414.06",
+    "posting_date": "2014-12-11",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000056814",
+    "amount": "938,708.23",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000066073",
+    "amount": "981,424.04",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000066081",
+    "amount": "673,694.6",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000066089",
+    "amount": "351,730.65",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000066097",
+    "amount": "1,740,698.78",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000066105",
+    "amount": "639,285.48",
+    "posting_date": "2013-12-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000062080",
+    "amount": "411,375.91",
+    "posting_date": "2014-12-10",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000062088",
+    "amount": "851,655.91",
+    "posting_date": "2014-12-10",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "United Kingdom"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000062096",
+    "amount": "1,362,980.41",
+    "posting_date": "2014-12-11",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000062104",
+    "amount": "382,744.02",
+    "posting_date": "2014-12-11",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000023833",
+    "amount": "1,440,525.26",
+    "posting_date": "2015-07-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000023881",
+    "amount": "1,273,999.46",
+    "posting_date": "2015-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000066067",
+    "amount": "436,162.46",
+    "posting_date": "2013-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000066075",
+    "amount": "2,120,374.45",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000066083",
+    "amount": "785,810.3",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000066091",
+    "amount": "221,892.16",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000066099",
+    "amount": "1,682,629.98",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000066107",
+    "amount": "275,475",
+    "posting_date": "2013-12-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "France"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000064001",
+    "amount": "1,430,761.7",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000028408",
+    "amount": "1,489,184.87",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000062082",
+    "amount": "1,725,027.42",
+    "posting_date": "2014-12-10",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000062090",
+    "amount": "434,583.74",
+    "posting_date": "2014-12-10",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000062098",
+    "amount": "3,407,602.18",
+    "posting_date": "2014-12-11",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000062106",
+    "amount": "374,966.32",
+    "posting_date": "2014-12-11",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000066069",
+    "amount": "2,429,668.14",
+    "posting_date": "2013-11-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000066077",
+    "amount": "2,948,065",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000066085",
+    "amount": "308,592.66",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000066093",
+    "amount": "806,714.13",
+    "posting_date": "2013-12-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000066101",
+    "amount": "6,313,581.11",
+    "posting_date": "2013-12-16",
+    "doc_currency": "GBP",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "United Kingdom"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000066109",
+    "amount": "1,078,287.46",
+    "posting_date": "2013-12-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000064003",
+    "amount": "1,003,156.1",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000065083",
+    "amount": "650,263.41",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000065091",
+    "amount": "183,617.28",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000065099",
+    "amount": "1,392,387.85",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000065107",
+    "amount": "227,957.45",
+    "posting_date": "2014-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "France"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000060003",
+    "amount": "1,114,948.98",
+    "posting_date": "2015-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000024063",
+    "amount": "446,414",
+    "posting_date": "2015-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000064005",
+    "amount": "47,818.43",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000064013",
+    "amount": "501,680.6",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000064017",
+    "amount": "687,108.22",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000064025",
+    "amount": "1,248,273.82",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000064033",
+    "amount": "105,159.61",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000064041",
+    "amount": "267,286.86",
+    "posting_date": "2014-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "France"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000064049",
+    "amount": "716,571.33",
+    "posting_date": "2014-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000064057",
+    "amount": "715,632.8",
+    "posting_date": "2014-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000064065",
+    "amount": "178,848.06",
+    "posting_date": "2014-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000064073",
+    "amount": "834,718.56",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000022236",
+    "amount": "5,621,445.22",
+    "posting_date": "2015-07-15",
+    "doc_currency": "EUR",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "France"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000056915",
+    "amount": "278,391.19",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000056919",
+    "amount": "198,372.8",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000056920",
+    "amount": "595,647.6",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000001003",
+    "amount": "380,213.25",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000065085",
+    "amount": "255,362.54",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000065093",
+    "amount": "667,561.47",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000065101",
+    "amount": "5,224,531.67",
+    "posting_date": "2014-03-16",
+    "doc_currency": "GBP",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "United Kingdom"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000065109",
+    "amount": "892,290.27",
+    "posting_date": "2014-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000060005",
+    "amount": "650,263.41",
+    "posting_date": "2015-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000064007",
+    "amount": "1,329,086.42",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000064015",
+    "amount": "207,310.06",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000064019",
+    "amount": "-135,194.71",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000064027",
+    "amount": "73,533.63",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000064035",
+    "amount": "429,003.85",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000064043",
+    "amount": "166,858.58",
+    "posting_date": "2014-05-16",
+    "doc_currency": "EUR",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "France"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000064051",
+    "amount": "1,091,254.66",
+    "posting_date": "2014-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000064059",
+    "amount": "222,498.79",
+    "posting_date": "2014-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000064067",
+    "amount": "370,963.91",
+    "posting_date": "2014-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000064075",
+    "amount": "1,803,416.1",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000025940",
+    "amount": "744,675.13",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000065087",
+    "amount": "148,355.88",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000065095",
+    "amount": "1,136,243.43",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000065103",
+    "amount": "555,785.2",
+    "posting_date": "2014-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000060007",
+    "amount": "255,033.54",
+    "posting_date": "2015-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000064009",
+    "amount": "5,402,208.86",
+    "posting_date": "2014-04-15",
+    "doc_currency": "EUR",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "France"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000064021",
+    "amount": "-78,743.88",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000064029",
+    "amount": "76,942.57",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000064037",
+    "amount": "64,349.84",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000064045",
+    "amount": "2,507,988.31",
+    "posting_date": "2014-05-16",
+    "doc_currency": "EUR",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "France"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000064053",
+    "amount": "902,098.61",
+    "posting_date": "2014-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000064061",
+    "amount": "143,281.72",
+    "posting_date": "2014-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "France"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000064069",
+    "amount": "2,066,475.87",
+    "posting_date": "2014-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000023093",
+    "amount": "1,854,413.16",
+    "posting_date": "2015-07-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000026815",
+    "amount": "744,741.13",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000065081",
+    "amount": "557,486.91",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000065089",
+    "amount": "291,059.53",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000065097",
+    "amount": "1,440,440.18",
+    "posting_date": "2014-03-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000065105",
+    "amount": "529,013.12",
+    "posting_date": "2014-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000060001",
+    "amount": "260,055.37",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "France"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000060009",
+    "amount": "485,401.19",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000023916",
+    "amount": "401,583.58",
+    "posting_date": "2015-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000064011",
+    "amount": "52,434.76",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000064023",
+    "amount": "-194,013.45",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000064031",
+    "amount": "382,263.83",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000064039",
+    "amount": "131,806.82",
+    "posting_date": "2014-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000064047",
+    "amount": "382,130.4",
+    "posting_date": "2014-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000064055",
+    "amount": "190,636.26",
+    "posting_date": "2014-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000064063",
+    "amount": "53,200.21",
+    "posting_date": "2014-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "United Kingdom"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000064071",
+    "amount": "262,125.38",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000026154",
+    "amount": "231,528.4",
+    "posting_date": "2015-08-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000060011",
+    "amount": "372,132.13",
+    "posting_date": "2015-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000060019",
+    "amount": "486,177.7",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000060027",
+    "amount": "1,136,243.43",
+    "posting_date": "2015-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000060035",
+    "amount": "111,347.75",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000064081",
+    "amount": "572,989.22",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000064089",
+    "amount": "299,153.16",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000064097",
+    "amount": "1,480,495.2",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000064105",
+    "amount": "543,723.64",
+    "posting_date": "2014-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000022426",
+    "amount": "54,562.71",
+    "posting_date": "2015-07-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000060013",
+    "amount": "488,219.04",
+    "posting_date": "2015-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000060021",
+    "amount": "139,747.91",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000060029",
+    "amount": "1,296,906.75",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000060037",
+    "amount": "102,314.5",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000064083",
+    "amount": "668,345.6",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000064091",
+    "amount": "188,723.22",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000064099",
+    "amount": "1,431,106.66",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000064107",
+    "amount": "234,296.37",
+    "posting_date": "2014-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "France"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000060015",
+    "amount": "2,440,134.3",
+    "posting_date": "2015-05-16",
+    "doc_currency": "EUR",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "France"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000060023",
+    "amount": "1,293,127.79",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000060031",
+    "amount": "812,135.13",
+    "posting_date": "2015-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Support Fees",
+    "number": "GLS0000060039",
+    "amount": "1,440,440.18",
+    "posting_date": "2015-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000064077",
+    "amount": "2,507,381.6",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000064085",
+    "amount": "262,463.53",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000064093",
+    "amount": "686,124.68",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000064101",
+    "amount": "5,369,812.77",
+    "posting_date": "2014-06-15",
+    "doc_currency": "GBP",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "United Kingdom"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000064109",
+    "amount": "917,102.62",
+    "posting_date": "2014-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Auditing Service",
+    "number": "GLS0000060017",
+    "amount": "743,194.64",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000060025",
+    "amount": "148,355.88",
+    "posting_date": "2015-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000060033",
+    "amount": "104,451.59",
+    "posting_date": "2015-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000064079",
+    "amount": "333,524.82",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000064087",
+    "amount": "152,481.28",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000064095",
+    "amount": "1,167,839.5",
+    "posting_date": "2014-06-14",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000064103",
+    "amount": "571,240.19",
+    "posting_date": "2014-06-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000062011",
+    "amount": "62,365.18",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000062019",
+    "amount": "-160,798.7",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000062027",
+    "amount": "87,459.88",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000029079",
+    "amount": "198,654.27",
+    "posting_date": "2015-09-18",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000060079",
+    "amount": "488,201.2",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000060087",
+    "amount": "-131,537",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000060095",
+    "amount": "-76,532.82",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000060103",
+    "amount": "71,544.17",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000062005",
+    "amount": "56,874.57",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000062013",
+    "amount": "596,691.91",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000062021",
+    "amount": "-93,656.87",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000062029",
+    "amount": "91,514.42",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000060081",
+    "amount": "668,518.41",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000060089",
+    "amount": "118,351.67",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000060097",
+    "amount": "-222,611.63",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Hardware",
+    "number": "GLS0000060105",
+    "amount": "360,927.43",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000062007",
+    "amount": "1,580,796.85",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000062015",
+    "amount": "246,571.7",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000062023",
+    "amount": "-230,756.89",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000062031",
+    "amount": "454,659.27",
+    "posting_date": "2014-10-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Depreciation",
+    "number": "GLS0000027113",
+    "amount": "2,609,137.98",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "External Web Hosting",
+    "number": "GLS0000060083",
+    "amount": "592,683.39",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000060091",
+    "amount": "744,046.05",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000060099",
+    "amount": "592,451.33",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000060107",
+    "amount": "752,101.61",
+    "posting_date": "2015-06-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000062009",
+    "amount": "6,425,311.89",
+    "posting_date": "2014-10-15",
+    "doc_currency": "EUR",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "France"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000062017",
+    "amount": "817,236.94",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000062025",
+    "amount": "1,484,679.47",
+    "posting_date": "2014-10-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000062033",
+    "amount": "125,075.37",
+    "posting_date": "2014-10-16",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000027197",
+    "amount": "247,901.63",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Subscription based Software Licenses",
+    "number": "GLS0000060085",
+    "amount": "313,093.31",
+    "posting_date": "2015-06-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Supplier Fees",
+    "number": "GLS0000060093",
+    "amount": "892,290.27",
+    "posting_date": "2015-06-18",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000060101",
+    "amount": "1,214,501.58",
+    "posting_date": "2015-04-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Project Consulting",
+    "number": "GLS0000060109",
+    "amount": "2,010,567.05",
+    "posting_date": "2015-05-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000065005",
+    "amount": "46,524.69",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000065013",
+    "amount": "488,107.56",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000065021",
+    "amount": "-76,613.45",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000065029",
+    "amount": "74,860.88",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Internally Developed Software",
+    "number": "GLS0000065037",
+    "amount": "62,608.84",
+    "posting_date": "2014-01-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Salary Expense",
+    "number": "GLS0000065045",
+    "amount": "2,440,134.3",
+    "posting_date": "2014-02-15",
+    "doc_currency": "EUR",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "France"
+  },
+  {
+    "account_name": "Temps & Contractors Expense",
+    "number": "GLS0000061004",
+    "amount": "1,430,731.4",
+    "posting_date": "2015-03-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Data Center Hosting",
+    "number": "GLS0000061012",
+    "amount": "164,601.39",
+    "posting_date": "2015-02-15",
+    "doc_currency": "EUR",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "France"
+  },
+  {
+    "account_name": "Computer Software",
+    "number": "GLS0000061020",
+    "amount": "47,171.56",
+    "posting_date": "2015-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000061028",
+    "amount": "706,877.86",
+    "posting_date": "2015-02-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000063007",
+    "amount": "1,383,024.37",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000063015",
+    "amount": "215,723.27",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000063023",
+    "amount": "-201,887.04",
+    "posting_date": "2014-07-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000063031",
+    "amount": "397,777.14",
+    "posting_date": "2014-07-17",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Travel and Entertainment",
+    "number": "GLS0000063039",
+    "amount": "137,155.9",
+    "posting_date": "2014-07-17",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software < $1,000",
+    "number": "GLS0000063047",
+    "amount": "397,638.29",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT App Development",
+    "department": "IT Enterprise SW App",
+    "location": "North America"
+  },
+  {
+    "account_name": "Software Development Depreciation",
+    "number": "GLS0000063055",
+    "amount": "198,372.8",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Facilities Expenses",
+    "number": "GLS0000063063",
+    "amount": "55,359.22",
+    "posting_date": "2014-08-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "United Kingdom"
+  },
+  {
+    "account_name": "Computer Equipment <$1,000",
+    "number": "GLS0000063071",
+    "amount": "272,763.14",
+    "posting_date": "2014-09-16",
+    "doc_currency": "USD",
+    "cost_center": "IT Support",
+    "department": "IT Services Management",
+    "location": "North America"
+  },
+  {
+    "account_name": "Bonus Expense",
+    "number": "GLS0000007469",
+    "amount": "196,382.12",
+    "posting_date": "2015-09-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Telecom",
+    "department": "IT Telecom",
+    "location": "North America"
+  },
+  {
+    "account_name": "Hardware Maintainance",
+    "number": "GLS0000065007",
+    "amount": "1,293,127.79",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  },
+  {
+    "account_name": "Training",
+    "number": "GLS0000065015",
+    "amount": "201,701.26",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Operations",
+    "location": "North America"
+  },
+  {
+    "account_name": "Disposal/Sale Fixed Assets Proceeds",
+    "number": "GLS0000065023",
+    "amount": "-188,764.38",
+    "posting_date": "2014-01-15",
+    "doc_currency": "USD",
+    "cost_center": "IT Infrastructure and Operations",
+    "department": "IT Infrastructure",
+    "location": "North America"
+  }
+]
