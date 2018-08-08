@@ -46,11 +46,6 @@
  },
  {
    "from_currency": "GBP",
-   "to_currency": "EUR",
-   "rate": 1.4057
- },
- {
-   "from_currency": "GBP",
    "to_currency": "CHF",
    "rate": 1.4743
  },
@@ -73,11 +68,6 @@
    "from_currency": "JPY",
    "to_currency": "GBP",
    "rate": 0.005136
- },
- {
-   "from_currency": "JPY",
-   "to_currency": "EUR",
-   "rate": 0.00722
  },
  {
    "from_currency": "USD",
