@@ -94,11 +94,6 @@
    "to_currency": "JPY",
    "rate": 123.6482
  },
- {
-   "from_currency": "USD",
-   "to_currency": "EUR",
-   "rate": 0.8925
- },
 {
    "from_currency": "INR",
    "to_currency": "GBP",
